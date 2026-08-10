@@ -1,7 +1,20 @@
 {
-  "syncedAt": "2026-08-10T03:52:27.580Z",
+  "syncedAt": "2026-08-10T10:11:57.480Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "ya97N72dAu8",
+      "title": "Sạc điện thoại qua đêm có hại pin không? #30sKhamPhaCuocSong #CongNghe",
+      "description": "Cắm sạc điện thoại trước khi ngủ và để đến sáng có làm pin nhanh chai không?\n\nĐiện thoại hiện đại có cơ chế quản lý sạc khi pin đầy, nên việc cắm sạc qua đêm không có nghĩa là pin bị “nhồi điện” liên tục. Điều đáng chú ý hơn là nhiệt cao kéo dài và việc để pin nằm ở mức 100% quá lâu. Khi sạc qua đêm, hãy để máy ở nơi thoáng, không phủ chăn gối và bật tính năng Sạc tối ưu / Optimized Charging / Adaptive Charging nếu thiết bị có hỗ trợ.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Củ sạc nhanh Belkin 67W GaN PD 3.1 có 2 cổng USB-C\nhttps://s.shopee.vn/4fvJ96lFSQ\n\n🛒 Acer Bộ sạc GaN USB C 20W nhanh Type-C 35W\nhttps://s.shopee.vn/2BDyAbYCR6\n\n🛒 Củ Sạc Nhanh 30W GaN Vention, Tích Hợp 2 Cổng USB và Type C, Hỗ Trợ PD QC\nhttps://s.shopee.vn/AKZfteizbM\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · 30skhampha.io.vn\n🔴 YouTube · @30sKhamPhaCuocSong\n🔵 Facebook · @30skhampha\n⚫ TikTok · @30skhampha\n🟣 Instagram · @30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!",
+      "publishedAt": "2026-08-10T09:49:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/ya97N72dAu8/maxresdefault.jpg",
+      "duration": "0:56",
+      "viewCount": 220,
+      "likeCount": 1,
+      "categories": [],
+      "primaryCategory": "",
+      "url": "https://www.youtube.com/watch?v=ya97N72dAu8"
+    },
     {
       "id": "DL_OeORD5_w",
       "title": "GaN LÀ GÌ & VÌ SAO CỦ SẠC NHỎ LẠI MẠNH",
@@ -11,8 +24,8 @@
       "duration": "0:45",
       "viewCount": 152,
       "likeCount": 2,
-      "categories": ["san-pham-do-hay", "cong-nghe-ai"],
-      "primaryCategory": "san-pham-do-hay",
+      "categories": [],
+      "primaryCategory": "",
       "url": "https://www.youtube.com/watch?v=DL_OeORD5_w"
     },
     {
@@ -24,8 +37,8 @@
       "duration": "0:44",
       "viewCount": 213,
       "likeCount": 4,
-      "categories": ["san-pham-do-hay", "cong-nghe-ai"],
-      "primaryCategory": "san-pham-do-hay",
+      "categories": [],
+      "primaryCategory": "",
       "url": "https://www.youtube.com/watch?v=u5XLA8pE5es"
     }
   ]
