@@ -1,58 +1,44 @@
 [
   {
-    "slug": "cong-nghe-ai",
-    "title": "Công nghệ & AI",
-    "emoji": "💻",
-    "aliases": ["Công nghệ và AI", "Technology & AI", "Technology and AI", "Tech & AI"],
-    "hashtags": ["#CongNghe", "#AI", "#Technology", "#Tech"]
+    "playlistId": "PLfaHCdMYmLkg",
+    "slug": "suc-khoe-co-the",
+    "title": "Sức khỏe & Cơ thể",
+    "emoji": "❤️"
   },
   {
-    "slug": "khoa-hoc-vu-tru",
-    "title": "Khoa học & Vũ trụ",
-    "emoji": "🔬",
-    "aliases": ["Khoa học và Vũ trụ", "Science & Space", "Science and Space"],
-    "hashtags": ["#KhoaHoc", "#VuTru", "#Science", "#Space"]
-  },
-  {
-    "slug": "con-nguoi-tam-ly",
-    "title": "Con người & Tâm lý",
-    "emoji": "🧠",
-    "aliases": ["Con người và Tâm lý", "Human & Psychology", "Human and Psychology"],
-    "hashtags": ["#ConNguoi", "#TamLy", "#Human", "#Psychology"]
-  },
-  {
+    "playlistId": "PLOMjJL-iiMAw",
     "slug": "the-gioi-van-hoa",
     "title": "Thế giới & Văn hóa",
-    "emoji": "🌍",
-    "aliases": ["Thế giới và Văn hóa", "World & Culture", "World and Culture"],
-    "hashtags": ["#TheGioi", "#VanHoa", "#World", "#Culture"]
+    "emoji": "🌍"
   },
   {
-    "slug": "dong-vat-thien-nhien",
-    "title": "Động vật & Thiên nhiên",
-    "emoji": "🐾",
-    "aliases": ["Động vật và Thiên nhiên", "Animals & Nature", "Animals and Nature"],
-    "hashtags": ["#DongVat", "#ThienNhien", "#Animals", "#Nature"]
+    "playlistId": "PLfIjmgX-L7HY",
+    "slug": "khoa-hoc-vu-tru",
+    "title": "Khoa học & Vũ trụ",
+    "emoji": "🔬"
   },
   {
-    "slug": "meo-song-ky-nang",
-    "title": "Mẹo sống & Kỹ năng",
-    "emoji": "💡",
-    "aliases": ["Mẹo sống và Kỹ năng", "Life Tips & Skills", "Life Tips and Skills"],
-    "hashtags": ["#MeoSong", "#KyNang", "#LifeTips", "#Skills"]
+    "playlistId": "PLFqcUtRsJuwY",
+    "slug": "kien-thuc-doi-song",
+    "title": "Kiến thức đời sống",
+    "emoji": "💡"
   },
   {
-    "slug": "san-pham-do-hay",
-    "title": "Sản phẩm & Đồ hay",
-    "emoji": "🛍️",
-    "aliases": ["Sản phẩm và Đồ hay", "Products & Gadgets", "Products and Gadgets"],
-    "hashtags": ["#SanPham", "#DoHay", "#Gadget", "#Gadgets"]
+    "playlistId": "PLG6NJO6adgBA",
+    "slug": "may-tinh",
+    "title": "Máy tính",
+    "emoji": "💻"
   },
   {
-    "slug": "cau-do-tu-duy",
-    "title": "Câu đố & Tư duy",
-    "emoji": "🧩",
-    "aliases": ["Câu đố và Tư duy", "Puzzles & Brain", "Puzzles and Brain"],
-    "hashtags": ["#CauDo", "#TuDuy", "#Puzzle", "#Puzzles", "#Brain"]
+    "playlistId": "PLbq0Gsh0lwQc",
+    "slug": "cong-nghe-thiet-bi",
+    "title": "🔌Công nghệ & Thiết bị",
+    "emoji": "📁"
+  },
+  {
+    "playlistId": "PLLBHScCNBYOI",
+    "slug": "ai-de-hieu",
+    "title": "AI dễ hiểu",
+    "emoji": "🤖"
   }
 ]
