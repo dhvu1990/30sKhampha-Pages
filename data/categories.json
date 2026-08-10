@@ -3,48 +3,56 @@
     "slug": "cong-nghe-ai",
     "title": "Công nghệ & AI",
     "emoji": "💻",
-    "aliases": ["Công nghệ và AI", "Technology & AI", "Technology and AI", "Tech & AI"]
+    "aliases": ["Công nghệ và AI", "Technology & AI", "Technology and AI", "Tech & AI"],
+    "hashtags": ["#CongNghe", "#AI", "#Technology", "#Tech"]
   },
   {
     "slug": "khoa-hoc-vu-tru",
     "title": "Khoa học & Vũ trụ",
     "emoji": "🔬",
-    "aliases": ["Khoa học và Vũ trụ", "Science & Space", "Science and Space"]
+    "aliases": ["Khoa học và Vũ trụ", "Science & Space", "Science and Space"],
+    "hashtags": ["#KhoaHoc", "#VuTru", "#Science", "#Space"]
   },
   {
     "slug": "con-nguoi-tam-ly",
     "title": "Con người & Tâm lý",
     "emoji": "🧠",
-    "aliases": ["Con người và Tâm lý", "Human & Psychology", "Human and Psychology"]
+    "aliases": ["Con người và Tâm lý", "Human & Psychology", "Human and Psychology"],
+    "hashtags": ["#ConNguoi", "#TamLy", "#Human", "#Psychology"]
   },
   {
     "slug": "the-gioi-van-hoa",
     "title": "Thế giới & Văn hóa",
     "emoji": "🌍",
-    "aliases": ["Thế giới và Văn hóa", "World & Culture", "World and Culture"]
+    "aliases": ["Thế giới và Văn hóa", "World & Culture", "World and Culture"],
+    "hashtags": ["#TheGioi", "#VanHoa", "#World", "#Culture"]
   },
   {
     "slug": "dong-vat-thien-nhien",
     "title": "Động vật & Thiên nhiên",
     "emoji": "🐾",
-    "aliases": ["Động vật và Thiên nhiên", "Animals & Nature", "Animals and Nature"]
+    "aliases": ["Động vật và Thiên nhiên", "Animals & Nature", "Animals and Nature"],
+    "hashtags": ["#DongVat", "#ThienNhien", "#Animals", "#Nature"]
   },
   {
     "slug": "meo-song-ky-nang",
     "title": "Mẹo sống & Kỹ năng",
     "emoji": "💡",
-    "aliases": ["Mẹo sống và Kỹ năng", "Life Tips & Skills", "Life Tips and Skills"]
+    "aliases": ["Mẹo sống và Kỹ năng", "Life Tips & Skills", "Life Tips and Skills"],
+    "hashtags": ["#MeoSong", "#KyNang", "#LifeTips", "#Skills"]
   },
   {
     "slug": "san-pham-do-hay",
     "title": "Sản phẩm & Đồ hay",
     "emoji": "🛍️",
-    "aliases": ["Sản phẩm và Đồ hay", "Products & Gadgets", "Products and Gadgets"]
+    "aliases": ["Sản phẩm và Đồ hay", "Products & Gadgets", "Products and Gadgets"],
+    "hashtags": ["#SanPham", "#DoHay", "#Gadget", "#Gadgets"]
   },
   {
     "slug": "cau-do-tu-duy",
     "title": "Câu đố & Tư duy",
     "emoji": "🧩",
-    "aliases": ["Câu đố và Tư duy", "Puzzles & Brain", "Puzzles and Brain"]
+    "aliases": ["Câu đố và Tư duy", "Puzzles & Brain", "Puzzles and Brain"],
+    "hashtags": ["#CauDo", "#TuDuy", "#Puzzle", "#Puzzles", "#Brain"]
   }
 ]
