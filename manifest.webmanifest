@@ -1,0 +1,19 @@
+{
+  "name": "30s KHÁM PHÁ CÔNG NGHỆ & ĐỜI SỐNG",
+  "short_name": "30s KHÁM PHÁ",
+  "description": "Video ngắn, trực quan và dễ hiểu về công nghệ, khoa học và đời sống.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8F1E6",
+  "theme_color": "#A94335",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "assets/brand/brand-mark-web.webp",
+      "sizes": "160x119",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
