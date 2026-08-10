@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-10T10:19:32.558Z",
+  "syncedAt": "2026-08-10T10:20:27.555Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -11,8 +11,10 @@
       "duration": "0:56",
       "viewCount": 224,
       "likeCount": 1,
-      "categories": [],
-      "primaryCategory": "",
+      "categories": [
+        "cong-nghe-ai"
+      ],
+      "primaryCategory": "cong-nghe-ai",
       "url": "https://www.youtube.com/watch?v=ya97N72dAu8"
     },
     {
@@ -24,8 +26,10 @@
       "duration": "0:45",
       "viewCount": 152,
       "likeCount": 2,
-      "categories": [],
-      "primaryCategory": "",
+      "categories": [
+        "cong-nghe-ai"
+      ],
+      "primaryCategory": "cong-nghe-ai",
       "url": "https://www.youtube.com/watch?v=DL_OeORD5_w"
     },
     {
@@ -37,8 +41,10 @@
       "duration": "0:44",
       "viewCount": 213,
       "likeCount": 4,
-      "categories": [],
-      "primaryCategory": "",
+      "categories": [
+        "cong-nghe-ai"
+      ],
+      "primaryCategory": "cong-nghe-ai",
       "url": "https://www.youtube.com/watch?v=u5XLA8pE5es"
     }
   ]
