@@ -1,15 +1,15 @@
 [
   {
-    "playlistId": "PLfaHCdMYmLkg",
-    "slug": "suc-khoe-co-the",
-    "title": "Sức khỏe & Cơ thể",
-    "emoji": "❤️"
+    "playlistId": "PLLBHScCNBYOI",
+    "slug": "ai-de-hieu",
+    "title": "AI dễ hiểu",
+    "emoji": "🤖"
   },
   {
-    "playlistId": "PLOMjJL-iiMAw",
-    "slug": "the-gioi-van-hoa",
-    "title": "Thế giới & Văn hóa",
-    "emoji": "🌍"
+    "playlistId": "PLbq0Gsh0lwQc",
+    "slug": "cong-nghe-thiet-bi",
+    "title": "Công nghệ & Thiết bị",
+    "emoji": "🔌"
   },
   {
     "playlistId": "PLfIjmgX-L7HY",
@@ -30,15 +30,15 @@
     "emoji": "💻"
   },
   {
-    "playlistId": "PLbq0Gsh0lwQc",
-    "slug": "cong-nghe-thiet-bi",
-    "title": "🔌Công nghệ & Thiết bị",
-    "emoji": "📁"
+    "playlistId": "PLfaHCdMYmLkg",
+    "slug": "suc-khoe-co-the",
+    "title": "Sức khỏe & Cơ thể",
+    "emoji": "❤️"
   },
   {
-    "playlistId": "PLLBHScCNBYOI",
-    "slug": "ai-de-hieu",
-    "title": "AI dễ hiểu",
-    "emoji": "🤖"
+    "playlistId": "PLOMjJL-iiMAw",
+    "slug": "the-gioi-van-hoa",
+    "title": "Thế giới & Văn hóa",
+    "emoji": "🌍"
   }
 ]
