@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-15T06:56:05.834Z",
+  "syncedAt": "2026-08-15T08:43:56.630Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "P2yZ_ZUlY5w",
+      "title": "ChatGPT, Gemini hay Claude: Người mới nên chọn AI nào?",
+      "description": "ChatGPT, Gemini và Claude đều mạnh, nhưng người mới không nhất thiết phải dùng cả ba cùng lúc. ChatGPT phù hợp khi bạn cần một trợ lý đa năng để viết, hỏi đáp, code và làm việc với ảnh hoặc file. Gemini hữu ích nếu bạn thường dùng Gmail, Drive và Docs; Claude đáng thử khi bạn hay đọc, tóm tắt và làm việc với nhiều tài liệu trong project.\n\nCách chọn dễ nhất là giao cùng một việc thực tế cho cả ba, ví dụ viết một dàn ý video, rồi so kết quả, cách dùng và hệ sinh thái. Không có AI tốt nhất cho mọi người; AI hợp nhu cầu và cách làm việc của bạn mới là lựa chọn phù hợp.\n\nGợi ý phụ kiện: bàn phím không dây đa thiết bị nếu bạn thường xuyên làm việc giữa laptop, tablet hoặc điện thoại.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Bộ 3 Sách Ứng Dụng AI - Excel - Word Ứng Dụng Văn Phòng\nhttps://s.shopee.vn/3B6d2z8QBU\n\n🛒 Sách Life 3.0+Không Ai Cản Được AI+Ứng Dụng AI Trong Giáo Dục\nhttps://s.shopee.vn/8AVJ0EX8OE\n\n🛒 Sách Ứng Dụng AI Trong Văn Phòng ĐÀO TẠO TIN HỌC Tối Ưu Công Việc\nhttps://s.shopee.vn/20ufezDYec\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · 30skhampha.io.vn\n🔴 YouTube · @30sKhamPhaCuocSong\n🔵 Facebook · @30skhampha\n⚫ TikTok · @30skhampha\n🟣 Instagram · @30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#ChatGPT #Gemini #Claude #AIChoNguoiMoi #30sKhamPhaCuocSong",
+      "publishedAt": "2026-08-15T08:30:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
+      "duration": "0:39",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "ai-de-hieu",
+      "url": "https://www.youtube.com/watch?v=P2yZ_ZUlY5w"
+    },
     {
       "id": "4y5BjA427jA",
       "title": "Vì sao ngồi đè chân lâu lại có cảm giác tê châm chích?",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-08-15T02:19:33Z",
       "thumbnail": "https://i.ytimg.com/vi/4y5BjA427jA/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 11,
+      "viewCount": 13,
       "likeCount": 0,
       "categories": [
         "suc-khoe-co-the"
@@ -39,7 +54,7 @@
       "publishedAt": "2026-08-13T04:39:39Z",
       "thumbnail": "https://i.ytimg.com/vi/wX8EJYMjCPc/maxresdefault.jpg",
       "duration": "0:51",
-      "viewCount": 37,
+      "viewCount": 35,
       "likeCount": 2,
       "categories": [
         "cong-nghe-thiet-bi"
