@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-16T01:56:16.610Z",
+  "syncedAt": "2026-08-16T03:11:41.924Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "vKUkUORtyC8",
+      "title": "Sạc dự phòng 20.000mAh sao không dùng được đủ? #30sKhamPhaCuocSong #SacDuPhong",
+      "description": "Sạc dự phòng ghi 20.000mAh nhưng vì sao điện thoại không thực sự nhận đủ đúng 20.000mAh?\n\nCon số 20.000mAh thường là dung lượng danh định của cell pin bên trong ở điện áp khoảng 3,7V. Quy đổi sang năng lượng, 20.000mAh ở 3,7V tương đương khoảng 74Wh. Khi chuyển sang đầu ra 5V, mức lý tưởng chỉ còn tương đương khoảng 14.800mAh.\n\nThực tế còn có hao hụt trong quá trình chuyển đổi điện áp, nên dung lượng đầu ra có thể thấp hơn nữa. Không nên áp một tỷ lệ hao hụt cố định cho mọi sạc dự phòng vì hiệu suất còn phụ thuộc thiết kế và điều kiện hoạt động.\n\nKhi chọn sạc dự phòng, đừng chỉ nhìn mAh. Hãy xem thêm Wh, dung lượng định mức và công suất PD.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Sạc dự phòng PISEN 20.000mAh 22.5W Sạc Nhanh PD, Tích Hợp 2 Dây Sạc\nhttps://s.shopee.vn/50YIRoYnP5\n\n🛒 Sạc Dự Phòng KUULAA 20.000mAh PD 22.5W Màn Số - 2 Cổng USB\nhttps://s.shopee.vn/BT2gzkHqP\n\n🛒 Sạc dự phòng 9Fit Pro 10.000mAh/ 20.000mAh, Sạc nhanh 20W PD/PPS\nhttps://s.shopee.vn/9pdYCoaBYT\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · 30skhampha.io.vn\n🔴 YouTube · @30sKhamPhaCuocSong\n🔵 Facebook · @30skhampha\n⚫ TikTok · @30skhampha\n🟣 Instagram · @30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#30sKhamPhaCuocSong #SacDuPhong #20000mAh #PowerBank #mAh #Wh #USBPD #CongNghe",
+      "publishedAt": "2026-08-16T02:00:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/vKUkUORtyC8/maxresdefault.jpg",
+      "duration": "0:44",
+      "viewCount": 48,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=vKUkUORtyC8"
+    },
     {
       "id": "P2yZ_ZUlY5w",
       "title": "ChatGPT, Gemini hay Claude: Người mới nên chọn AI nào?",
@@ -9,8 +24,8 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 82,
-      "likeCount": 3,
+      "viewCount": 98,
+      "likeCount": 2,
       "categories": [
         "ai-de-hieu"
       ],
