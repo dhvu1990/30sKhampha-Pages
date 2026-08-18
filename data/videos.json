@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-18T07:02:53.039Z",
+  "syncedAt": "2026-08-18T08:52:18.407Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "SAPVQgzIZK8",
+      "title": "Hub USB-C có PD passthrough hoạt động thế nào?",
+      "description": "Hub USB-C có PD passthrough giúp bạn vừa kết nối phụ kiện vừa sạc laptop qua cùng một chiếc hub. Nhưng nếu củ sạc 100W cắm vào hub, laptop không nhất thiết luôn nhận đủ 100W, vì chính hub và các thiết bị gắn thêm cũng cần điện để hoạt động.\n\nPD passthrough hiểu đơn giản là sạc truyền qua hub: điện đi từ củ sạc vào cổng PD của hub, sau đó hub vừa tự hoạt động vừa chuyển phần công suất còn lại tới laptop. Vì vậy, công suất PD nhận vào và công suất thực tế cấp cho máy có thể khác nhau tùy từng model.\n\nGợi ý khi chọn mua: đừng chỉ nhìn chữ “100W PD”. Hãy ưu tiên hub USB-C công bố rõ công suất PD nhận vào và mức pass-through tối đa cấp cho laptop, đồng thời kiểm tra nhu cầu cấp điện của các phụ kiện bạn thường gắn vào hub.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Hub C UGREEN với HDMI 4K, Bộ chuyển đổi đa cổng Type C 5 trong 1\nhttps://s.shopee.vn/20ukcBwb3O\n\n🛒 Hub USB-C 6 in 1 Ugreen 70411 (USB-C ra HDMI HDMI + 2 USB 3.0 + SD/TF +Sạc ngược USB-C )\nhttps://s.shopee.vn/AAGSLH3YcV\n\n🛒 Bộ chia Hub USB Type C sang 4 Port USB 3.0 Ugreen 70336\nhttps://s.shopee.vn/1qbKPzq0IZ\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · 30skhampha.io.vn\n🔴 YouTube · @30sKhamPhaCuocSong\n🔵 Facebook · @30skhampha\n⚫ TikTok · @30skhampha\n🟣 Instagram · @30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#HubUSBC #USBPowerDelivery #PDPassthrough #PhuKienLaptop #30sKhamPha",
+      "publishedAt": "2026-08-18T08:30:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/SAPVQgzIZK8/maxresdefault.jpg",
+      "duration": "0:57",
+      "viewCount": 10,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=SAPVQgzIZK8"
+    },
     {
       "id": "hedzlK2Owf8",
       "title": "Bluetooth càng mới, tai nghe có càng hay không?",
@@ -25,7 +40,7 @@
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
       "viewCount": 2,
-      "likeCount": 0,
+      "likeCount": 1,
       "categories": [
         "ai-de-hieu"
       ],
@@ -54,7 +69,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 138,
+      "viewCount": 140,
       "likeCount": 9,
       "categories": [
         "ai-de-hieu"
