@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-19T07:53:28.016Z",
+  "syncedAt": "2026-08-19T08:53:07.453Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "l0tmorPDx1A",
+      "title": "Mesh Wi-Fi khác bộ kích sóng ở điểm nào?",
+      "description": "Mesh Wi-Fi và bộ kích sóng (repeater) đều giúp mở rộng vùng phủ, nhưng cách hoạt động khác nhau. Repeater nhận Wi-Fi từ router rồi phát lại; thiết bị kết nối qua repeater phải đi thêm một chặng không dây nên tốc độ thực tế thường có thể thấp hơn kết nối trực tiếp.\n\nMesh dùng nhiều node như một hệ thống thống nhất, thường quản lý chung một mạng Wi-Fi và hỗ trợ chuyển sang điểm phát phù hợp khi bạn di chuyển trong nhà. Tuy nhiên, Mesh không có nghĩa lúc nào cũng nhanh hơn: nếu các node dùng chung băng tần cho backhaul và thiết bị, hiệu năng vẫn có thể giảm; Ethernet backhaul hoặc hệ có băng tần backhaul riêng thường ổn định hơn.\n\nGợi ý lựa chọn: nếu chỉ cần xử lý một góc chết, ít thiết bị và muốn tiết kiệm, repeater có thể đủ. Với nhà nhiều tầng, nhiều phòng và thường xuyên di chuyển, Mesh Wi-Fi 2 pack thường dễ quản lý và cho trải nghiệm liền mạch hơn. Trước khi mua, hãy kiểm tra số node, kiểu backhaul và phạm vi phủ phù hợp với ngôi nhà.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Bộ Phát Wifi Mesh TP-Link Deco X60 (1-pack, 2-pack, 3-pack) Wifi 6 AX5400\nhttps://s.shopee.vn/40fqXb39Lq\n\n🛒 Hệ Thống Wifi Mesh TP-Link Deco E4 (1 - 2 - 3 Pack) Chuẩn AC 1200Mbps\nhttps://s.shopee.vn/60QuvKSu3f\n\n🛒 Hệ thống Wifi Mesh TP-Link Deco E4 (1-pack/ 2-pack/ 3-pack) Chuẩn AC 1200Mbps Dành Cho Gia Đình\nhttps://s.shopee.vn/3g3094bWnn\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · 30skhampha.io.vn\n🔴 YouTube · @30sKhamPhaCuocSong\n🔵 Facebook · @30skhampha\n⚫ TikTok · @30skhampha\n🟣 Instagram · @30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#MeshWiFi #Repeater #WiFiGiaDinh #Roaming #30sKhamPha",
+      "publishedAt": "2026-08-19T08:30:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/l0tmorPDx1A/maxresdefault.jpg",
+      "duration": "0:53",
+      "viewCount": 2,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=l0tmorPDx1A"
+    },
     {
       "id": "Sdox2ce-KtE",
       "title": "Vì sao lạnh hoặc xúc động lại nổi da gà?",
