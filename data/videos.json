@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-20T05:45:21.456Z",
+  "syncedAt": "2026-08-20T07:04:53.477Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-08-20T03:00:30Z",
       "thumbnail": "https://i.ytimg.com/vi/2YxYnwvk6RM/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 3,
+      "viewCount": 19,
       "likeCount": 0,
       "categories": [
         "khoa-hoc-vu-tru",
@@ -55,7 +55,7 @@
       "publishedAt": "2026-08-18T08:30:16Z",
       "thumbnail": "https://i.ytimg.com/vi/SAPVQgzIZK8/maxresdefault.jpg",
       "duration": "0:57",
-      "viewCount": 22,
+      "viewCount": 16,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -85,7 +85,7 @@
       "publishedAt": "2026-08-16T09:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 27,
+      "viewCount": 23,
       "likeCount": 3,
       "categories": [
         "ai-de-hieu"
@@ -101,7 +101,7 @@
       "thumbnail": "https://i.ytimg.com/vi/vKUkUORtyC8/maxresdefault.jpg",
       "duration": "0:44",
       "viewCount": 126,
-      "likeCount": 2,
+      "likeCount": 3,
       "categories": [
         "cong-nghe-thiet-bi"
       ],
@@ -115,8 +115,8 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 153,
-      "likeCount": 12,
+      "viewCount": 154,
+      "likeCount": 11,
       "categories": [
         "ai-de-hieu"
       ],
