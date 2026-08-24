@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-24T14:58:33.706Z",
+  "syncedAt": "2026-08-24T15:54:43.598Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -24,8 +24,8 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 14,
-      "likeCount": 1,
+      "viewCount": 15,
+      "likeCount": 3,
       "categories": [
         "kien-thuc-doi-song"
       ],
@@ -39,7 +39,7 @@
       "publishedAt": "2026-08-24T11:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/3Igtn-aTQWs/maxresdefault.jpg",
       "duration": "0:57",
-      "viewCount": 23,
+      "viewCount": 20,
       "likeCount": 2,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -54,8 +54,8 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 24,
-      "likeCount": 1,
+      "viewCount": 1,
+      "likeCount": 0,
       "categories": [
         "kien-thuc-doi-song"
       ],
@@ -69,8 +69,8 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 0,
-      "likeCount": 0,
+      "viewCount": 6,
+      "likeCount": 1,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -99,7 +99,7 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 34,
+      "viewCount": 32,
       "likeCount": 2,
       "categories": [
         "ai-de-hieu"
@@ -174,7 +174,7 @@
       "publishedAt": "2026-08-18T12:30:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Sdox2ce-KtE/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 20,
+      "viewCount": 16,
       "likeCount": 4,
       "categories": [
         "suc-khoe-co-the"
@@ -204,7 +204,7 @@
       "publishedAt": "2026-08-16T09:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 51,
+      "viewCount": 50,
       "likeCount": 8,
       "categories": [
         "ai-de-hieu"
@@ -249,7 +249,7 @@
       "publishedAt": "2026-08-14T08:18:21Z",
       "thumbnail": "https://i.ytimg.com/vi/WTBEyh8HNrk/maxresdefault.jpg",
       "duration": "0:40",
-      "viewCount": 72,
+      "viewCount": 70,
       "likeCount": 1,
       "categories": [
         "may-tinh"
