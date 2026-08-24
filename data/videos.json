@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-24T10:52:10.500Z",
+  "syncedAt": "2026-08-24T11:42:54.912Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "3Igtn-aTQWs",
+      "title": "Hub USB-C có PD passthrough hoạt động thế nào?",
+      "description": "Hub USB-C có PD passthrough giúp bạn vừa kết nối phụ kiện vừa sạc laptop qua cùng một chiếc hub. Tuy nhiên, cắm sạc qua hub không đồng nghĩa laptop luôn nhận nguyên công suất từ củ sạc.\n\nPD passthrough hiểu đơn giản là sạc truyền qua hub: điện đi từ củ sạc vào cổng PD của hub, hub dùng một phần điện để tự hoạt động rồi chuyển phần còn lại tới laptop. Vì vậy, công suất thực tế đến máy có thể thấp hơn công suất tối đa của củ sạc hoặc mức PD đầu vào ghi trên hub.\n\nKhi chọn hub USB-C có PD, đừng chỉ nhìn chữ “100W”. Hãy kiểm tra rõ công suất PD nhận vào và mức pass-through tối đa cấp cho laptop, đồng thời lưu ý các thiết bị gắn thêm như SSD hay đầu đọc thẻ cũng có thể cần điện.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Hub C UGREEN với HDMI 4K, Bộ chuyển đổi đa cổng Type C 5 trong 1\nhttps://s.shopee.vn/20ukcBwb3O\n\n🛒 Hub USB-C 6 in 1 Ugreen 70411 (USB-C ra HDMI HDMI + 2 USB 3.0 + SD/TF +Sạc ngược USB-C )\nhttps://s.shopee.vn/AAGSLH3YcV\n\n🛒 Bộ chia Hub USB Type C sang 4 Port USB 3.0 Ugreen 70336\nhttps://s.shopee.vn/1qbKPzq0IZ\n\n*Liên kết Shopee ở trên là liên kết tiếp thị liên kết. Kênh có thể nhận một khoản hoa hồng nhỏ khi có giao dịch đủ điều kiện; giá người mua không thay đổi.*\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#HubUSBC #PDPassthrough #PhuKienLaptop #30sKhamPha",
+      "publishedAt": "2026-08-24T11:00:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/3Igtn-aTQWs/maxresdefault.jpg",
+      "duration": "0:57",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=3Igtn-aTQWs"
+    },
     {
       "id": "0pqLUQvfzg0",
       "title": "Vì sao nước sôi ở nhiệt độ thấp hơn trên núi cao?",
@@ -54,8 +69,8 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 1,
-      "likeCount": 0,
+      "viewCount": 28,
+      "likeCount": 2,
       "categories": [
         "ai-de-hieu"
       ],
@@ -99,7 +114,7 @@
       "publishedAt": "2026-08-20T08:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IWNdnKOOcxI/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 622,
+      "viewCount": 621,
       "likeCount": 3,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -160,7 +175,7 @@
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
       "viewCount": 50,
-      "likeCount": 7,
+      "likeCount": 8,
       "categories": [
         "ai-de-hieu"
       ],
