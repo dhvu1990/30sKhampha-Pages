@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-25T07:06:56.768Z",
+  "syncedAt": "2026-08-25T08:58:50.965Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "RWhc7H2k5J0",
+      "title": "Bản tin 30s Khám Phá #1 - USB-C, sạc GaN, hub và pin dự phòng: 5 điều dễ hiểu sai",
+      "description": "Bản tin 30s Khám Phá #1 tổng hợp 5 video short đã đăng, cùng thuộc nhóm Công nghệ & Thiết bị, tập trung vào USB-C, sạc GaN, hub USB-C và pin dự phòng.\n\nDANH SÁCH NỘI DUNG TRONG VIDEO (theo đúng thứ tự):\n1. Vì sao cáp USB-C giống nhau nhưng công suất khác nhau?\n2. Cáp sạc nhanh chưa chắc truyền dữ liệu nhanh\n3. GaN là gì và vì sao củ sạc nhỏ lại mạnh?\n4. Hub USB-C có PD passthrough hoạt động thế nào?\n5. 20.000mAh không có nghĩa dùng được đúng 20.000mAh\n\nVideo được thiết kế gọn khoảng 3 phút, đúng tinh thần xem nhanh — hiểu nhanh của 30s Khám Phá.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Cáp USB-C 240W E-Marker\nhttps://s.shopee.vn/6Ak3FkQ48Z\n\n🛒 Cáp nối dài USB C UGREEN, Bộ mở rộng USB C 3.2 100W Truyền 10Gbps\nhttps://s.shopee.vn/6fgRy9Lec7\n\n🛒 Sạc dự phòng PISEN 20.000mAh 22.5W Sạc Nhanh PD, Tích Hợp 2 Dây Sạc\nhttps://s.shopee.vn/50YIRoYnP5\n\n🛒 Củ sạc USB C UGREEN 65W, Khối sạc nhanh Nexode 3 cổng GaN\nhttps://s.shopee.vn/4LIQehLm3N\n\n🛒 Hub C UGREEN với HDMI 4K, Bộ chuyển đổi đa cổng Type C 5 trong 1\nhttps://s.shopee.vn/20ukcBwb3O\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#CongNghe #USBC #GaN #SacNhanh #30sKhamPhaCuocSong",
+      "publishedAt": "2026-08-25T08:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
+      "duration": "3:59",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "ban-tin-30s-kham-pha"
+      ],
+      "primaryCategory": "ban-tin-30s-kham-pha",
+      "url": "https://www.youtube.com/watch?v=RWhc7H2k5J0"
+    },
     {
       "id": "hMAHHUJcSfI",
       "title": "Gemini là gì? Vì sao người dùng Google nên biết?",
@@ -10,7 +25,7 @@
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
       "viewCount": 30,
-      "likeCount": 6,
+      "likeCount": 7,
       "categories": [
         "ai-de-hieu"
       ],
@@ -235,7 +250,7 @@
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
       "viewCount": 193,
-      "likeCount": 16,
+      "likeCount": 20,
       "categories": [
         "ai-de-hieu"
       ],
