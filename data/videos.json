@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-25T16:53:43.515Z",
+  "syncedAt": "2026-08-25T17:44:19.000Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -25,7 +25,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 0,
+      "viewCount": 1,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -100,8 +100,8 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 21,
-      "likeCount": 2,
+      "viewCount": 27,
+      "likeCount": 1,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -115,7 +115,7 @@
       "publishedAt": "2026-08-24T08:44:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg",
       "duration": "0:47",
-      "viewCount": 17,
+      "viewCount": 18,
       "likeCount": 1,
       "categories": [
         "the-gioi-van-hoa"
@@ -175,7 +175,7 @@
       "publishedAt": "2026-08-20T08:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IWNdnKOOcxI/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 628,
+      "viewCount": 629,
       "likeCount": 7,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -205,8 +205,8 @@
       "publishedAt": "2026-08-18T12:30:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Sdox2ce-KtE/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 29,
-      "likeCount": 7,
+      "viewCount": 31,
+      "likeCount": 6,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -250,7 +250,7 @@
       "publishedAt": "2026-08-16T02:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/vKUkUORtyC8/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 173,
+      "viewCount": 175,
       "likeCount": 15,
       "categories": [
         "cong-nghe-thiet-bi"
