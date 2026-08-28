@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-28T04:59:25.730Z",
+  "syncedAt": "2026-08-28T17:09:46.086Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "mtavSFpgfRo",
+      "title": "Vì sao laptop cũ chạy chậm dần dù cấu hình không đổi?",
+      "description": "Laptop cũ có thể cho cảm giác chậm dần dù CPU, RAM và cấu hình phần cứng vẫn như trước. Thường không phải phần cứng tự nhiên “yếu đi”, mà hệ thống phải gánh nhiều phần mềm và tác vụ hơn theo thời gian.\n\nỨng dụng cài thêm, tiến trình chạy nền, ổ C gần đầy và nhiệt độ cao đều có thể làm trải nghiệm chậm hơn. Khi máy quá nóng, CPU còn có thể tự giảm xung để bảo vệ phần cứng nên hiệu năng thực tế giảm xuống.\n\nTrước khi nâng cấp, hãy kiểm tra ứng dụng nền, dung lượng ổ, nhiệt độ và RAM. Nếu máy vẫn dùng HDD, chuyển sang SSD thường giúp khởi động và mở ứng dụng nhanh hơn rõ rệt; với SSD NVMe, cần kiểm tra đúng chuẩn mà laptop hỗ trợ trước khi mua.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Gudga M.2 NVMe SSD 128GB 256GB 512GB 1TB SSD Ổ cứng thể rắn M2 SSD M.2 NVMe PCIE\nhttps://s.shopee.vn/1gIAHN5Qvg\n\n🛒 SSD NVME 500G 512G 1TB. SSD NVME\nhttps://s.shopee.vn/4VcLecBqnH\n\n🛒 Ổ Cứng SSD WD Blue SN5000 NVMe 500GB/1TB | M.2 2280 PCIe NVMe 4x4 - Bảo hành 60 tháng\nhttps://s.shopee.vn/19wINnthS\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#LaptopCham #LaptopCu #SSD #Windows #30sKhamPha",
+      "publishedAt": "2026-08-28T12:00:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/mtavSFpgfRo/maxresdefault.jpg",
+      "duration": "0:41",
+      "viewCount": 444,
+      "likeCount": 1,
+      "categories": [
+        "may-tinh"
+      ],
+      "primaryCategory": "may-tinh",
+      "url": "https://www.youtube.com/watch?v=mtavSFpgfRo"
+    },
     {
       "id": "Uk06ja2MXiw",
       "title": "Vì sao bánh mì để tủ lạnh lại nhanh bị cứng?",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-08-27T12:00:18Z",
       "thumbnail": "https://i.ytimg.com/vi/Uk06ja2MXiw/maxresdefault.jpg",
       "duration": "0:46",
-      "viewCount": 92,
+      "viewCount": 85,
       "likeCount": 0,
       "categories": [
         "kien-thuc-doi-song"
@@ -24,7 +39,7 @@
       "publishedAt": "2026-08-26T12:00:16Z",
       "thumbnail": "https://i.ytimg.com/vi/pdlOvnIPnrs/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 125,
+      "viewCount": 162,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -70,8 +85,8 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 39,
-      "likeCount": 10,
+      "viewCount": 47,
+      "likeCount": 11,
       "categories": [
         "ai-de-hieu"
       ],
@@ -85,7 +100,7 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 23,
+      "viewCount": 24,
       "likeCount": 4,
       "categories": [
         "kien-thuc-doi-song"
@@ -100,7 +115,7 @@
       "publishedAt": "2026-08-24T11:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/3Igtn-aTQWs/maxresdefault.jpg",
       "duration": "0:57",
-      "viewCount": 61,
+      "viewCount": 64,
       "likeCount": 9,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -115,7 +130,7 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 51,
+      "viewCount": 56,
       "likeCount": 3,
       "categories": [
         "kien-thuc-doi-song"
@@ -130,7 +145,7 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 44,
+      "viewCount": 57,
       "likeCount": 7,
       "categories": [
         "suc-khoe-co-the"
@@ -145,8 +160,8 @@
       "publishedAt": "2026-08-24T08:44:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg",
       "duration": "0:47",
-      "viewCount": 40,
-      "likeCount": 6,
+      "viewCount": 42,
+      "likeCount": 7,
       "categories": [
         "the-gioi-van-hoa"
       ],
@@ -160,8 +175,8 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 72,
-      "likeCount": 7,
+      "viewCount": 80,
+      "likeCount": 8,
       "categories": [
         "ai-de-hieu"
       ],
@@ -175,7 +190,7 @@
       "publishedAt": "2026-08-24T07:57:27Z",
       "thumbnail": "https://i.ytimg.com/vi/Uy3ARlj4hiE/maxresdefault.jpg",
       "duration": "0:45",
-      "viewCount": 87,
+      "viewCount": 89,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -205,7 +220,7 @@
       "publishedAt": "2026-08-20T08:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IWNdnKOOcxI/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 637,
+      "viewCount": 641,
       "likeCount": 12,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -220,7 +235,7 @@
       "publishedAt": "2026-08-19T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/l0tmorPDx1A/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 87,
+      "viewCount": 90,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -235,8 +250,8 @@
       "publishedAt": "2026-08-18T12:30:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Sdox2ce-KtE/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 38,
-      "likeCount": 9,
+      "viewCount": 40,
+      "likeCount": 11,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -265,8 +280,8 @@
       "publishedAt": "2026-08-16T09:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 97,
-      "likeCount": 19,
+      "viewCount": 139,
+      "likeCount": 24,
       "categories": [
         "ai-de-hieu"
       ],
@@ -280,7 +295,7 @@
       "publishedAt": "2026-08-16T02:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/vKUkUORtyC8/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 181,
+      "viewCount": 183,
       "likeCount": 19,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -295,8 +310,8 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 255,
-      "likeCount": 34,
+      "viewCount": 302,
+      "likeCount": 36,
       "categories": [
         "ai-de-hieu"
       ],
