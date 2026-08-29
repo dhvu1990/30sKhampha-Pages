@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-08-29T11:23:35.227Z",
+  "syncedAt": "2026-08-29T16:54:08.397Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "tFaEThQdkPM",
+      "title": "Claude là gì? Vì sao Claude Code và Sonnet 5 khiến nó được chú ý?",
+      "description": "Ngoài ChatGPT và Gemini, Claude là một trợ lý AI của Anthropic đang được chú ý nhờ khả năng xử lý những công việc dài và nhiều bước.\n\nĐiểm nổi bật của Claude là khả năng hỗ trợ lập trình và làm việc theo quy trình. Với Claude Code, AI có thể đọc dự án, tìm file liên quan, sửa code và chạy kiểm tra trong phạm vi người dùng cho phép.\n\nỞ thế hệ Sonnet 5, Claude còn có thể lập kế hoạch và sử dụng các công cụ như trình duyệt hoặc cửa sổ lệnh. Vì vậy, Claude không chỉ là chatbot để hỏi đáp mà đang tiến gần hơn tới một trợ lý AI có thể cùng bạn thực hiện công việc.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Sách - Claude Toàn Tập (Nguyễn Văn Lượng) - Từng Bước Làm Chủ Claude Từ Cơ Bản Đến Nâng Cao\nhttps://s.shopee.vn/5As3uwWJ5d\n\n🛒 Sách - Claude AI Thực Chiến\nhttps://s.shopee.vn/1qbbwrsAJf\n\n🛒 Sách Combo 2 sách: Hướng dẫn chi tiết 21 Ngày thực chiến Claude và 3 Cấp độ dùng AI\nhttps://s.shopee.vn/8V8VtAi8qh\n\n🔎 Theo dõi 30s Khám Phá để khám phá thêm mỗi ngày!\n-----------------------\n🌐 Website · https://30skhampha.io.vn/\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#30sKhamPha #Claude #ClaudeCode #Anthropic #AI",
+      "publishedAt": "2026-08-29T12:00:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/tFaEThQdkPM/maxresdefault.jpg",
+      "duration": "0:43",
+      "viewCount": 247,
+      "likeCount": 2,
+      "categories": [
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "ai-de-hieu",
+      "url": "https://www.youtube.com/watch?v=tFaEThQdkPM"
+    },
     {
       "id": "mtavSFpgfRo",
       "title": "Vì sao laptop cũ chạy chậm dần dù cấu hình không đổi?",
@@ -9,8 +24,8 @@
       "publishedAt": "2026-08-28T12:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/mtavSFpgfRo/maxresdefault.jpg",
       "duration": "0:41",
-      "viewCount": 487,
-      "likeCount": 1,
+      "viewCount": 661,
+      "likeCount": 2,
       "categories": [
         "may-tinh"
       ],
@@ -70,7 +85,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 4,
+      "viewCount": 5,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -85,7 +100,7 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 50,
+      "viewCount": 51,
       "likeCount": 11,
       "categories": [
         "ai-de-hieu"
@@ -100,7 +115,7 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 30,
+      "viewCount": 29,
       "likeCount": 4,
       "categories": [
         "kien-thuc-doi-song"
@@ -115,7 +130,7 @@
       "publishedAt": "2026-08-24T11:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/3Igtn-aTQWs/maxresdefault.jpg",
       "duration": "0:57",
-      "viewCount": 81,
+      "viewCount": 79,
       "likeCount": 13,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -130,7 +145,7 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 65,
+      "viewCount": 62,
       "likeCount": 4,
       "categories": [
         "kien-thuc-doi-song"
@@ -160,8 +175,8 @@
       "publishedAt": "2026-08-24T08:44:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg",
       "duration": "0:47",
-      "viewCount": 41,
-      "likeCount": 8,
+      "viewCount": 42,
+      "likeCount": 7,
       "categories": [
         "the-gioi-van-hoa"
       ],
@@ -175,7 +190,7 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 92,
+      "viewCount": 89,
       "likeCount": 8,
       "categories": [
         "ai-de-hieu"
@@ -220,7 +235,7 @@
       "publishedAt": "2026-08-20T08:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IWNdnKOOcxI/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 647,
+      "viewCount": 646,
       "likeCount": 13,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -280,8 +295,8 @@
       "publishedAt": "2026-08-16T09:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 177,
-      "likeCount": 29,
+      "viewCount": 185,
+      "likeCount": 31,
       "categories": [
         "ai-de-hieu"
       ],
@@ -295,8 +310,8 @@
       "publishedAt": "2026-08-16T02:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/vKUkUORtyC8/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 187,
-      "likeCount": 20,
+      "viewCount": 197,
+      "likeCount": 22,
       "categories": [
         "cong-nghe-thiet-bi"
       ],
@@ -310,8 +325,8 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 340,
-      "likeCount": 38,
+      "viewCount": 359,
+      "likeCount": 40,
       "categories": [
         "ai-de-hieu"
       ],
