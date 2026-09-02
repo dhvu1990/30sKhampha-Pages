@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-02T09:09:22.821Z",
+  "syncedAt": "2026-09-02T16:54:20.120Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "qTlBlIJ044g",
+      "title": "Từ một ảnh tĩnh, AI tạo video chuyển động bằng cách nào?",
+      "description": "Một tấm ảnh đứng yên vẫn có thể trở thành video chuyển động nhờ AI. Ảnh gốc đóng vai trò tham chiếu để mô hình giữ chủ thể, bố cục và những chi tiết quan trọng trong quá trình tạo các khung hình tiếp theo.\n\nKhi nhận thêm mô tả chuyển động, AI dự đoán chuỗi khung hình phù hợp với ảnh tham chiếu và yêu cầu chuyển động. Chuyển động càng phức tạp, nguy cơ khuôn mặt, bàn tay, vật thể hoặc chữ bị biến dạng càng cao.\n\nMuốn kết quả ổn định hơn, hãy bắt đầu với ảnh rõ nét, prompt chuyển động cụ thể và ưu tiên chuyển động vừa phải thay vì thay đổi quá mạnh trong một cảnh ngắn.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Sách Life 3.0+Không Ai Cản Được AI+Ứng Dụng AI Trong Giáo Dục+Thiết Kế Hình Ảnh+Tự Động Hóa Trong MKT (Alpha Books)\nhttps://s.shopee.vn/4qFJWHALZy\n\n🛒 Sách - Combo 3 cuốn: AI 5.0 + AI Thực Chiến + The AI Edge\nhttps://s.shopee.vn/5As9uvqbww\n\n🛒 Sách - Combo 3 cuốn : AI Công Cụ Nâng Cao Hiệu Suất Công Việc + AI 5.0 + The AI Edge\nhttps://s.shopee.vn/2qUF8g2oKI\n\n*Liên kết Shopee ở trên là liên kết tiếp thị liên kết. Kênh có thể nhận một khoản hoa hồng nhỏ khi có giao dịch đủ điều kiện; giá người mua không thay đổi.*\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#AI #ImageToVideo #AIVideo #AIDeHieu #30sKhamPha",
+      "publishedAt": "2026-09-02T12:00:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
+      "duration": "0:38",
+      "viewCount": 1,
+      "likeCount": 0,
+      "categories": [
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "ai-de-hieu",
+      "url": "https://www.youtube.com/watch?v=qTlBlIJ044g"
+    },
     {
       "id": "k5vBSwM3oOk",
       "title": "Internet slang lan từ một quốc gia ra toàn cầu bằng cách nào?",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-09-01T12:00:07Z",
       "thumbnail": "https://i.ytimg.com/vi/k5vBSwM3oOk/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 665,
+      "viewCount": 666,
       "likeCount": 1,
       "categories": [
         "the-gioi-van-hoa"
@@ -24,7 +39,7 @@
       "publishedAt": "2026-08-31T12:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/8-B-UXyqzoM/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 962,
+      "viewCount": 963,
       "likeCount": 2,
       "categories": [
         "suc-khoe-co-the"
@@ -160,7 +175,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 9,
+      "viewCount": 10,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -175,7 +190,7 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 78,
+      "viewCount": 79,
       "likeCount": 13,
       "categories": [
         "ai-de-hieu"
@@ -190,7 +205,7 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 45,
+      "viewCount": 48,
       "likeCount": 4,
       "categories": [
         "kien-thuc-doi-song"
@@ -205,7 +220,7 @@
       "publishedAt": "2026-08-24T11:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/3Igtn-aTQWs/maxresdefault.jpg",
       "duration": "0:57",
-      "viewCount": 94,
+      "viewCount": 99,
       "likeCount": 20,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -220,7 +235,7 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 81,
+      "viewCount": 82,
       "likeCount": 9,
       "categories": [
         "kien-thuc-doi-song"
@@ -235,8 +250,8 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 84,
-      "likeCount": 13,
+      "viewCount": 90,
+      "likeCount": 14,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -250,7 +265,7 @@
       "publishedAt": "2026-08-24T08:44:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg",
       "duration": "0:47",
-      "viewCount": 50,
+      "viewCount": 52,
       "likeCount": 7,
       "categories": [
         "the-gioi-van-hoa"
@@ -265,8 +280,8 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 121,
-      "likeCount": 16,
+      "viewCount": 131,
+      "likeCount": 18,
       "categories": [
         "ai-de-hieu"
       ],
@@ -310,8 +325,8 @@
       "publishedAt": "2026-08-20T08:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IWNdnKOOcxI/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 663,
-      "likeCount": 17,
+      "viewCount": 665,
+      "likeCount": 18,
       "categories": [
         "cong-nghe-thiet-bi"
       ],
@@ -340,7 +355,7 @@
       "publishedAt": "2026-08-18T12:30:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Sdox2ce-KtE/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 51,
+      "viewCount": 52,
       "likeCount": 14,
       "categories": [
         "suc-khoe-co-the"
@@ -370,7 +385,7 @@
       "publishedAt": "2026-08-16T09:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/mYnXIiFrL_4/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 299,
+      "viewCount": 300,
       "likeCount": 43,
       "categories": [
         "ai-de-hieu"
@@ -400,7 +415,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 381,
+      "viewCount": 382,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
