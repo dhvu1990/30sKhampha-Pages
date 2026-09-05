@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-05T08:41:22.345Z",
+  "syncedAt": "2026-09-05T15:41:10.463Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "LaQE5o2R19w",
+      "title": "Vì sao cắm màn hình ngoài lại làm laptop nóng hơn?",
+      "description": "Chỉ cắm thêm một màn hình mà laptop nóng hơn, quạt quay mạnh hơn? Điều này chưa chắc là lỗi.\n\nKhi có màn hình ngoài, hệ thống đồ họa phải xử lý thêm hình ảnh. Độ phân giải cao, tần số quét cao và việc cổng HDMI hoặc USB-C kích hoạt GPU rời có thể làm tải đồ họa và điện tiêu thụ tăng, từ đó nhiệt tăng.\n\nTóm lại, mức nóng thêm tùy độ phân giải, tần số quét và cách laptop xử lý đồ họa.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Hub Type C USB,Hub Chia 4 Cổng USB 3.0 Tốc Độ Cao OTG Docking Station Bộ Chia Adapter Phụ Kiện\nhttps://s.shopee.vn/9Khnu8zofE\n\n🛒 Hub chuyển đổi Vention 5-in-1 HDMI 4K, Sạc Nhanh PD 100W, USB 3.0 5Gbps, Dock Type-C Cho MatBook Laptop\nhttps://s.shopee.vn/70Jt7tcHCu\n\n🛒 JSAUX 6-in-1 Multifunctional Docking Station Trạm Docking Tương thích với ROG Ally X / Ally / Xbox Ally/ROG Xbox X/Steam / Legion Go / Legion Go S, 6 trong 1 ROG X USB-A & USB-C 3.2 Gen 1, Sạc 100W - HB0609\nhttps://s.shopee.vn/3LQalBgQDX\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#ManHinhNgoai #Laptop #CongNghe #30sKhamPha",
+      "publishedAt": "2026-09-05T12:00:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/LaQE5o2R19w/maxresdefault.jpg",
+      "duration": "1:11",
+      "viewCount": 52,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=LaQE5o2R19w"
+    },
     {
       "id": "L7UGhu8QspE",
       "title": "Loa báo chuyển khoản biết bạn vừa trả tiền QR bằng cách nào?",
@@ -39,8 +54,8 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 101,
-      "likeCount": 3,
+      "viewCount": 103,
+      "likeCount": 4,
       "categories": [
         "ai-de-hieu"
       ],
@@ -129,7 +144,7 @@
       "publishedAt": "2026-08-29T12:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/tFaEThQdkPM/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 268,
+      "viewCount": 269,
       "likeCount": 2,
       "categories": [
         "ai-de-hieu"
@@ -205,7 +220,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 16,
+      "viewCount": 17,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -220,7 +235,7 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 83,
+      "viewCount": 92,
       "likeCount": 14,
       "categories": [
         "ai-de-hieu"
@@ -235,8 +250,8 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 51,
-      "likeCount": 8,
+      "viewCount": 53,
+      "likeCount": 9,
       "categories": [
         "kien-thuc-doi-song"
       ],
@@ -265,8 +280,8 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 94,
-      "likeCount": 8,
+      "viewCount": 95,
+      "likeCount": 9,
       "categories": [
         "kien-thuc-doi-song"
       ],
@@ -280,7 +295,7 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 112,
+      "viewCount": 121,
       "likeCount": 15,
       "categories": [
         "suc-khoe-co-the"
@@ -295,7 +310,7 @@
       "publishedAt": "2026-08-24T08:44:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg",
       "duration": "0:47",
-      "viewCount": 58,
+      "viewCount": 60,
       "likeCount": 8,
       "categories": [
         "the-gioi-van-hoa"
@@ -310,8 +325,8 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 201,
-      "likeCount": 37,
+      "viewCount": 239,
+      "likeCount": 42,
       "categories": [
         "ai-de-hieu"
       ],
@@ -355,7 +370,7 @@
       "publishedAt": "2026-08-20T08:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/IWNdnKOOcxI/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 667,
+      "viewCount": 666,
       "likeCount": 19,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -385,7 +400,7 @@
       "publishedAt": "2026-08-18T12:30:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Sdox2ce-KtE/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 65,
+      "viewCount": 66,
       "likeCount": 17,
       "categories": [
         "suc-khoe-co-the"
@@ -445,7 +460,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 390,
+      "viewCount": 392,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
