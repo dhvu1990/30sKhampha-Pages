@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-05T22:24:49.579Z",
+  "syncedAt": "2026-09-06T08:59:55.234Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "uq0wiBPS6jc",
+      "title": "Bản tin 30s Khám Phá #3 - Wi-Fi 6, Mesh, Bluetooth và 2 hiểu lầm về sạc pin",
+      "description": "Bản tin 30s Khám Phá #3 tổng hợp 5 video short đã đăng thuộc nhóm Công nghệ & Thiết bị, tập trung vào Wi-Fi, Bluetooth và thói quen sạc pin.\n\nDANH SÁCH NỘI DUNG TRONG VIDEO:\n1. Wi-Fi 6 có làm mạng Internet nhanh hơn không?\n2. Mesh Wi-Fi khác bộ kích sóng ở điểm nào?\n3. Bluetooth càng mới, tai nghe có càng hay không?\n4. Sạc không dây có làm điện thoại nóng hơn sạc dây không?\n5. Sạc điện thoại qua đêm có làm hại pin không?\n\nVideo được thiết kế gọn khoảng 3 phút, đúng tinh thần xem nhanh — hiểu nhanh của 30s Khám Phá.\n\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n\n#CongNghe #WiFi #Bluetooth #SacPin #30sKhamPhaCuocSong",
+      "publishedAt": "2026-09-06T03:30:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
+      "duration": "3:37",
+      "viewCount": 1,
+      "likeCount": 0,
+      "categories": [
+        "ban-tin-30s-kham-pha"
+      ],
+      "primaryCategory": "ban-tin-30s-kham-pha",
+      "url": "https://www.youtube.com/watch?v=uq0wiBPS6jc"
+    },
     {
       "id": "LaQE5o2R19w",
       "title": "Vì sao cắm màn hình ngoài lại làm laptop nóng hơn?",
@@ -24,7 +39,7 @@
       "publishedAt": "2026-09-04T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/L7UGhu8QspE/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 307,
+      "viewCount": 284,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -39,7 +54,7 @@
       "publishedAt": "2026-09-03T12:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/vSIauWr0UN0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 20,
+      "viewCount": 21,
       "likeCount": 0,
       "categories": [
         "suc-khoe-co-the"
@@ -54,7 +69,7 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 103,
+      "viewCount": 98,
       "likeCount": 4,
       "categories": [
         "ai-de-hieu"
@@ -129,7 +144,7 @@
       "publishedAt": "2026-08-30T03:00:24Z",
       "thumbnail": "https://i.ytimg.com/vi/z7iCtMfu9tE/maxresdefault.jpg",
       "duration": "3:27",
-      "viewCount": 28,
+      "viewCount": 34,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -220,7 +235,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 17,
+      "viewCount": 16,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -235,7 +250,7 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 92,
+      "viewCount": 91,
       "likeCount": 14,
       "categories": [
         "ai-de-hieu"
@@ -250,7 +265,7 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 55,
+      "viewCount": 50,
       "likeCount": 9,
       "categories": [
         "kien-thuc-doi-song"
@@ -280,8 +295,8 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 95,
-      "likeCount": 9,
+      "viewCount": 90,
+      "likeCount": 10,
       "categories": [
         "kien-thuc-doi-song"
       ],
@@ -295,8 +310,8 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 122,
-      "likeCount": 16,
+      "viewCount": 124,
+      "likeCount": 17,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -325,8 +340,8 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 248,
-      "likeCount": 39,
+      "viewCount": 222,
+      "likeCount": 43,
       "categories": [
         "ai-de-hieu"
       ],
@@ -400,8 +415,8 @@
       "publishedAt": "2026-08-18T12:30:02Z",
       "thumbnail": "https://i.ytimg.com/vi/Sdox2ce-KtE/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 67,
-      "likeCount": 17,
+      "viewCount": 72,
+      "likeCount": 19,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -460,7 +475,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 394,
+      "viewCount": 395,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
