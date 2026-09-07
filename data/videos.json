@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-07T09:48:02.827Z",
+  "syncedAt": "2026-09-07T17:58:16.124Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "HFF6whEK_qg",
+      "title": "Máy lọc không khí có giảm CO2 trong phòng không?",
+      "description": "Máy lọc không khí chạy cả ngày nhưng cảm biến CO2 trong phòng vẫn có thể tăng. Lý do là máy lọc không khí và thông gió xử lý hai vấn đề khác nhau.\n\nMàng HEPA chủ yếu giữ bụi và các hạt lơ lửng. CO2 là khí, nên máy lọc không khí thông thường gần như không loại bỏ đáng kể. Trong phòng kín, CO2 có thể tăng do hô hấp, nấu ăn hoặc đốt nhiên liệu.\n\nMuốn giảm CO2, hướng xử lý thường là tăng trao đổi không khí: mở cửa khi phù hợp, tăng thông gió và theo dõi bằng máy đo CO2.\n\n--- SẢN PHẨM THAM KHẢO ---\n\n🛒 Máy kiểm tra chất lượng, màn hình, Máy phân tích CO2 cao cho sân,máy đo co2 trong nhà, Phát hiện trong nhà và ngoài trời Thử hcho tvoc pm2.5 / 1.0 / 10\nhttps://s.shopee.vn/7fZdIE3hVA \n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#MayLocKhongKhi #CO2 #ThongGio #30sKhamPha",
+      "publishedAt": "2026-09-07T12:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/HFF6whEK_qg/maxresdefault.jpg",
+      "duration": "0:40",
+      "viewCount": 87,
+      "likeCount": 0,
+      "categories": [
+        "kien-thuc-doi-song"
+      ],
+      "primaryCategory": "kien-thuc-doi-song",
+      "url": "https://www.youtube.com/watch?v=HFF6whEK_qg"
+    },
     {
       "id": "SZLEeVdWZtc",
       "title": "Vì sao tủ lạnh có thể làm lạnh dù bên trong không có đá?",
@@ -39,7 +54,7 @@
       "publishedAt": "2026-09-05T12:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/LaQE5o2R19w/maxresdefault.jpg",
       "duration": "1:11",
-      "viewCount": 55,
+      "viewCount": 56,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -54,7 +69,7 @@
       "publishedAt": "2026-09-04T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/L7UGhu8QspE/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 285,
+      "viewCount": 286,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -69,7 +84,7 @@
       "publishedAt": "2026-09-03T12:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/vSIauWr0UN0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 22,
+      "viewCount": 23,
       "likeCount": 0,
       "categories": [
         "suc-khoe-co-the"
@@ -84,8 +99,8 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 103,
-      "likeCount": 4,
+      "viewCount": 107,
+      "likeCount": 5,
       "categories": [
         "ai-de-hieu"
       ],
@@ -99,7 +114,7 @@
       "publishedAt": "2026-09-01T12:00:07Z",
       "thumbnail": "https://i.ytimg.com/vi/k5vBSwM3oOk/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 664,
+      "viewCount": 665,
       "likeCount": 1,
       "categories": [
         "the-gioi-van-hoa"
@@ -114,7 +129,7 @@
       "publishedAt": "2026-08-31T12:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/8-B-UXyqzoM/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 964,
+      "viewCount": 965,
       "likeCount": 2,
       "categories": [
         "suc-khoe-co-the"
@@ -144,7 +159,7 @@
       "publishedAt": "2026-08-30T08:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/RF_kmOdqlh8/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 721,
+      "viewCount": 722,
       "likeCount": 2,
       "categories": [
         "khoa-hoc-vu-tru"
@@ -174,7 +189,7 @@
       "publishedAt": "2026-08-29T12:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/tFaEThQdkPM/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 270,
+      "viewCount": 271,
       "likeCount": 2,
       "categories": [
         "ai-de-hieu"
@@ -204,7 +219,7 @@
       "publishedAt": "2026-08-27T12:00:18Z",
       "thumbnail": "https://i.ytimg.com/vi/Uk06ja2MXiw/maxresdefault.jpg",
       "duration": "0:46",
-      "viewCount": 87,
+      "viewCount": 88,
       "likeCount": 0,
       "categories": [
         "kien-thuc-doi-song"
@@ -250,7 +265,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 18,
+      "viewCount": 21,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -280,7 +295,7 @@
       "publishedAt": "2026-08-24T11:45:38Z",
       "thumbnail": "https://i.ytimg.com/vi/675b0RT7SM8/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 59,
+      "viewCount": 63,
       "likeCount": 10,
       "categories": [
         "kien-thuc-doi-song"
@@ -310,7 +325,7 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 95,
+      "viewCount": 96,
       "likeCount": 10,
       "categories": [
         "kien-thuc-doi-song"
@@ -325,7 +340,7 @@
       "publishedAt": "2026-08-24T08:47:41Z",
       "thumbnail": "https://i.ytimg.com/vi/R7YKtahQAc0/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 125,
+      "viewCount": 126,
       "likeCount": 17,
       "categories": [
         "suc-khoe-co-the"
@@ -340,7 +355,7 @@
       "publishedAt": "2026-08-24T08:44:53Z",
       "thumbnail": "https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg",
       "duration": "0:47",
-      "viewCount": 67,
+      "viewCount": 68,
       "likeCount": 9,
       "categories": [
         "the-gioi-van-hoa"
@@ -355,7 +370,7 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 278,
+      "viewCount": 285,
       "likeCount": 47,
       "categories": [
         "ai-de-hieu"
@@ -490,7 +505,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 398,
+      "viewCount": 401,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
