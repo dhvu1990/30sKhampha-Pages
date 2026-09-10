@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-10T09:14:49.557Z",
+  "syncedAt": "2026-09-10T16:43:22.054Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "9vDjInvS2h4",
+      "title": "Video AI có “dấu vết” để nhận biết không? SynthID và Content Credentials là gì?",
+      "description": "Ảnh và video do AI tạo ngày càng giống nội dung thật, nhưng một số hệ thống có thể để lại “dấu vết” hỗ trợ kiểm tra nguồn gốc.\n\nSynthID là dấu nước kỹ thuật số vô hình được nhúng vào nội dung AI ở những hệ thống có hỗ trợ. Content Credentials giống hồ sơ nguồn gốc, giúp cho biết nội dung đến từ đâu và đã được chỉnh sửa ra sao.\n\nKhông thấy watermark hoặc thông tin nguồn gốc không có nghĩa nội dung chắc chắn là thật. Khi cần xác minh, hãy xem nguồn, dùng công cụ kiểm tra tương thích và đối chiếu thêm nguồn đáng tin.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Box ổ cứng di động chính hãng Orico/ Gloway Kèm Ổ cứng Laptop chuẩn SATA 3.0 - Dùng cho SSD/HDD 2.5\nhttps://s.shopee.vn/9zxcjKlBaB\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#SynthID #ContentCredentials #AIWatermark #30sKhamPha",
+      "publishedAt": "2026-09-10T12:00:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/9vDjInvS2h4/maxresdefault.jpg",
+      "duration": "0:40",
+      "viewCount": 31,
+      "likeCount": 0,
+      "categories": [
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "ai-de-hieu",
+      "url": "https://www.youtube.com/watch?v=9vDjInvS2h4"
+    },
     {
       "id": "HLvMis9yMXk",
       "title": "Vì sao bụng lại réo khi bạn đói?",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-09-09T12:00:06Z",
       "thumbnail": "https://i.ytimg.com/vi/HLvMis9yMXk/maxresdefault.jpg",
       "duration": "0:40",
-      "viewCount": 120,
+      "viewCount": 121,
       "likeCount": 2,
       "categories": [
         "suc-khoe-co-the"
@@ -39,8 +54,8 @@
       "publishedAt": "2026-09-06T12:15:27Z",
       "thumbnail": "https://i.ytimg.com/vi/SZLEeVdWZtc/maxresdefault.jpg",
       "duration": "1:03",
-      "viewCount": 61,
-      "likeCount": 0,
+      "viewCount": 62,
+      "likeCount": 1,
       "categories": [
         "kien-thuc-doi-song"
       ],
@@ -54,7 +69,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 2,
+      "viewCount": 5,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -114,7 +129,7 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 115,
+      "viewCount": 118,
       "likeCount": 6,
       "categories": [
         "ai-de-hieu"
