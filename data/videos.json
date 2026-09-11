@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-11T09:13:03.706Z",
+  "syncedAt": "2026-09-11T16:48:01.943Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "xm2UnpFIfqo",
+      "title": "Cổng USB-C trên laptop hỗ trợ gì? Cách kiểm tra nhanh.",
+      "description": "Không phải cổng USB-C nào trên laptop cũng có cùng tính năng. Hai cổng trông giống nhau nhưng có thể khác về khả năng sạc, truyền dữ liệu hoặc xuất hình.\n\nMuốn kiểm tra nhanh, hãy nhìn ký hiệu cạnh cổng rồi đối chiếu thông số đúng model laptop. Tùy máy, cổng USB-C có thể hỗ trợ USB Power Delivery, dữ liệu tốc độ cao, DisplayPort Alt Mode hoặc Thunderbolt.\n\nĐừng chỉ dựa vào hình dạng đầu cắm để đoán tính năng. Nếu dùng hub USB-C, dock hoặc màn hình ngoài, hãy kiểm tra khả năng của chính cổng trên laptop trước.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Acer Hub chuyển đổi USB Type C 4 in 1 cổng đa năng USB C bộ chia USB 3.0 Truyền tải nhanh chóng Bộ chuyển đổi đa cổng cho Mac Pad Laptop XPS UH501\nhttps://s.shopee.vn/9peELJxkCo\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#USBC #LaptopTips #USBPD #Thunderbolt #30sKhamPha",
+      "publishedAt": "2026-09-11T12:00:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
+      "duration": "0:45",
+      "viewCount": 189,
+      "likeCount": 2,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=xm2UnpFIfqo"
+    },
     {
       "id": "9vDjInvS2h4",
       "title": "Video AI có “dấu vết” để nhận biết không? SynthID và Content Credentials là gì?",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-09-10T12:00:40Z",
       "thumbnail": "https://i.ytimg.com/vi/9vDjInvS2h4/maxresdefault.jpg",
       "duration": "0:40",
-      "viewCount": 31,
+      "viewCount": 141,
       "likeCount": 0,
       "categories": [
         "ai-de-hieu"
@@ -69,7 +84,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 6,
+      "viewCount": 8,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -99,7 +114,7 @@
       "publishedAt": "2026-09-04T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/L7UGhu8QspE/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 294,
+      "viewCount": 295,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -129,7 +144,7 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 118,
+      "viewCount": 120,
       "likeCount": 6,
       "categories": [
         "ai-de-hieu"
@@ -400,7 +415,7 @@
       "publishedAt": "2026-08-24T08:12:50Z",
       "thumbnail": "https://i.ytimg.com/vi/FzAFh0Wu7OI/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 285,
+      "viewCount": 284,
       "likeCount": 50,
       "categories": [
         "ai-de-hieu"
