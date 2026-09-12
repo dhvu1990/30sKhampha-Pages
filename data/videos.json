@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-11T22:50:50.072Z",
+  "syncedAt": "2026-09-12T08:54:40.926Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,8 +9,8 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 227,
-      "likeCount": 2,
+      "viewCount": 452,
+      "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
       ],
@@ -550,7 +550,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 406,
+      "viewCount": 407,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
