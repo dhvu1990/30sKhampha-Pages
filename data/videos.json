@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-12T15:54:37.875Z",
+  "syncedAt": "2026-09-12T22:41:04.142Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,8 +9,8 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 205,
-      "likeCount": 1,
+      "viewCount": 273,
+      "likeCount": 2,
       "categories": [
         "may-tinh"
       ],
@@ -24,7 +24,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 555,
+      "viewCount": 594,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -129,7 +129,7 @@
       "publishedAt": "2026-09-04T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/L7UGhu8QspE/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 295,
+      "viewCount": 297,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -460,7 +460,7 @@
       "publishedAt": "2026-08-23T09:00:18Z",
       "thumbnail": "https://i.ytimg.com/vi/jXzVnT0Fd84/maxresdefault.jpg",
       "duration": "0:41",
-      "viewCount": 77,
+      "viewCount": 78,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
