@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-12T08:54:40.926Z",
+  "syncedAt": "2026-09-12T15:54:37.875Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "eM-Mskt8-xU",
+      "title": "Cách kiểm tra laptop đang dùng SSD hay HDD trên Windows 11",
+      "description": "Muốn biết laptop đang dùng SSD hay HDD mà không cần tháo máy? Trên Windows 11, bạn có thể kiểm tra ngay trong phần cài đặt lưu trữ.\nNhấn Windows + I để mở Settings, vào System, mục Storage, kéo xuống Advanced storage settings rồi mở Disks & volumes. Chọn ổ cần kiểm tra để xem thông tin loại ổ.\nNếu laptop có nhiều ổ, hãy kiểm tra từng ổ vì máy có thể dùng cả SSD và HDD cùng lúc. Cách này không yêu cầu tháo máy hay cài thêm phần mềm chỉ để xác định loại ổ.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Box ổ cứng di động chính hãng Orico 500GB 320GB 250GB (Kèm cáp USB 3.0) - Dùng cho SSD/HDD 2.5\nhttps://s.shopee.vn/70K4XzCYbw\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#SSD #HDD #Windows11 #MayTinh #30sKhamPha",
+      "publishedAt": "2026-09-12T12:00:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
+      "duration": "0:53",
+      "viewCount": 205,
+      "likeCount": 1,
+      "categories": [
+        "may-tinh"
+      ],
+      "primaryCategory": "may-tinh",
+      "url": "https://www.youtube.com/watch?v=eM-Mskt8-xU"
+    },
     {
       "id": "xm2UnpFIfqo",
       "title": "Cổng USB-C trên laptop hỗ trợ gì? Cách kiểm tra nhanh.",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 452,
+      "viewCount": 555,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -535,7 +550,7 @@
       "publishedAt": "2026-08-16T02:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/vKUkUORtyC8/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 232,
+      "viewCount": 233,
       "likeCount": 25,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -550,7 +565,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 407,
+      "viewCount": 408,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
