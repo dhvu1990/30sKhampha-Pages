@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-13T09:50:09.697Z",
+  "syncedAt": "2026-09-13T16:42:01.208Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "RfEaIib5gMk",
+      "title": "Laptop Windows ARM khác x86 ở đâu? 3 thứ cần kiểm tra trước khi mua.",
+      "description": "Laptop Windows ARM hấp dẫn nhờ hiệu quả năng lượng, nhưng khác nền tảng x86/x64 ở kiến trúc bộ xử lý và cách phần mềm tương thích.\n\nNhiều ứng dụng phổ biến đã có bản ARM64 và Windows dùng Prism để chạy nhiều ứng dụng cũ. Dễ vướng nhất vẫn là phần mềm chuyên dụng, driver thiết bị và một số game hoặc hệ thống chống gian lận chưa hỗ trợ ARM.\n\nTrước khi mua, hãy kiểm tra đúng phần mềm, driver và game bạn thật sự dùng. Điều đó quan trọng hơn việc chỉ nhìn chữ ARM hay x86 trên cấu hình.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒Arm Màn Hình 1 tay – Tải trọng 12kg | Phù hợp với màn hình 17-34 inch, dễ lắp đặt, giá tốt\nhttps://s.shopee.vn/8fSK5zTGhH\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#WindowsARM #ARM64 #Laptop #MayTinh #30sKhamPha",
+      "publishedAt": "2026-09-13T12:00:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
+      "duration": "0:43",
+      "viewCount": 68,
+      "likeCount": 0,
+      "categories": [
+        "may-tinh"
+      ],
+      "primaryCategory": "may-tinh",
+      "url": "https://www.youtube.com/watch?v=RfEaIib5gMk"
+    },
     {
       "id": "eM-Mskt8-xU",
       "title": "Cách kiểm tra laptop đang dùng SSD hay HDD trên Windows 11",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 346,
+      "viewCount": 350,
       "likeCount": 3,
       "categories": [
         "may-tinh"
@@ -24,7 +39,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 598,
+      "viewCount": 606,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -294,7 +309,7 @@
       "publishedAt": "2026-08-26T12:00:16Z",
       "thumbnail": "https://i.ytimg.com/vi/pdlOvnIPnrs/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 178,
+      "viewCount": 179,
       "likeCount": 2,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -460,7 +475,7 @@
       "publishedAt": "2026-08-23T09:00:18Z",
       "thumbnail": "https://i.ytimg.com/vi/jXzVnT0Fd84/maxresdefault.jpg",
       "duration": "0:41",
-      "viewCount": 78,
+      "viewCount": 79,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -565,7 +580,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 409,
+      "viewCount": 410,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
