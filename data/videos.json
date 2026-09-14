@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-14T10:10:08.751Z",
+  "syncedAt": "2026-09-14T18:14:28.213Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "BbH6A3jQyAs",
+      "title": "VRR là gì và vì sao giúp game bớt xé hình?",
+      "description": "Game có thể chạy lúc 75 FPS, lúc 110 FPS trên màn hình 120Hz nhưng hình vẫn có thể bị xé khi nhịp tạo khung hình của GPU và nhịp quét của màn hình không khớp nhau.\n\nVRR (Variable Refresh Rate) cho phép màn hình thay đổi tần số quét theo FPS mà GPU đang tạo ra trong phạm vi hỗ trợ. Nhờ vậy, hiện tượng xé hình và giật do lệch nhịp có thể giảm khi FPS dao động.\n\nĐiểm cần nhớ: VRR không làm tăng FPS và không làm GPU mạnh hơn; nó giúp màn hình hiển thị những khung hình đang có đúng nhịp hơn.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Màn Hình Gaming LG UltraGear G6 27G610A-B 27 inch - IPS - 2K - 200Hz - 1ms GTG BH 24 tháng\nhttps://s.shopee.vn/1Lfkzy1aQw\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#VRR #ScreenTearing #ManHinhGaming #30sKhamPha",
+      "publishedAt": "2026-09-14T12:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/BbH6A3jQyAs/maxresdefault.jpg",
+      "duration": "0:35",
+      "viewCount": 4,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=BbH6A3jQyAs"
+    },
     {
       "id": "RfEaIib5gMk",
       "title": "Laptop Windows ARM khác x86 ở đâu? 3 thứ cần kiểm tra trước khi mua.",
@@ -9,8 +24,8 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 79,
-      "likeCount": 0,
+      "viewCount": 231,
+      "likeCount": 3,
       "categories": [
         "may-tinh"
       ],
@@ -114,7 +129,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 10,
+      "viewCount": 11,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -174,8 +189,8 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 174,
-      "likeCount": 7,
+      "viewCount": 176,
+      "likeCount": 8,
       "categories": [
         "ai-de-hieu"
       ],
@@ -355,7 +370,7 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 91,
+      "viewCount": 92,
       "likeCount": 14,
       "categories": [
         "ai-de-hieu"
