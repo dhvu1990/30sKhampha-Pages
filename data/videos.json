@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-14T18:14:28.213Z",
+  "syncedAt": "2026-09-14T23:32:53.631Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-09-14T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/BbH6A3jQyAs/maxresdefault.jpg",
       "duration": "0:35",
-      "viewCount": 4,
+      "viewCount": 5,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -24,7 +24,7 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 231,
+      "viewCount": 232,
       "likeCount": 3,
       "categories": [
         "may-tinh"
@@ -595,7 +595,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 410,
+      "viewCount": 412,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
