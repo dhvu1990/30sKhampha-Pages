@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-13T22:42:05.207Z",
+  "syncedAt": "2026-09-14T10:10:08.751Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -54,7 +54,7 @@
       "publishedAt": "2026-09-10T12:00:40Z",
       "thumbnail": "https://i.ytimg.com/vi/9vDjInvS2h4/maxresdefault.jpg",
       "duration": "0:40",
-      "viewCount": 144,
+      "viewCount": 130,
       "likeCount": 0,
       "categories": [
         "ai-de-hieu"
@@ -114,7 +114,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 8,
+      "viewCount": 10,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -174,8 +174,8 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 120,
-      "likeCount": 6,
+      "viewCount": 174,
+      "likeCount": 7,
       "categories": [
         "ai-de-hieu"
       ],
@@ -249,7 +249,7 @@
       "publishedAt": "2026-08-30T03:00:24Z",
       "thumbnail": "https://i.ytimg.com/vi/z7iCtMfu9tE/maxresdefault.jpg",
       "duration": "3:27",
-      "viewCount": 53,
+      "viewCount": 58,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -309,7 +309,7 @@
       "publishedAt": "2026-08-26T12:00:16Z",
       "thumbnail": "https://i.ytimg.com/vi/pdlOvnIPnrs/maxresdefault.jpg",
       "duration": "0:37",
-      "viewCount": 179,
+      "viewCount": 180,
       "likeCount": 2,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -340,7 +340,7 @@
       "publishedAt": "2026-08-25T08:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/RWhc7H2k5J0/maxresdefault.jpg",
       "duration": "3:59",
-      "viewCount": 25,
+      "viewCount": 26,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -655,7 +655,7 @@
       "publishedAt": "2026-08-08T02:30:05Z",
       "thumbnail": "https://i.ytimg.com/vi/u5XLA8pE5es/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 219,
+      "viewCount": 220,
       "likeCount": 5,
       "categories": [
         "cong-nghe-thiet-bi"
