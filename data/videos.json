@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-16T23:19:37.041Z",
+  "syncedAt": "2026-09-17T09:42:43.021Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -39,8 +39,8 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 240,
-      "likeCount": 3,
+      "viewCount": 247,
+      "likeCount": 4,
       "categories": [
         "may-tinh"
       ],
@@ -54,7 +54,7 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 351,
+      "viewCount": 354,
       "likeCount": 3,
       "categories": [
         "may-tinh"
@@ -69,7 +69,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 606,
+      "viewCount": 614,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -144,7 +144,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 15,
+      "viewCount": 17,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
