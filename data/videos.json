@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-20T09:29:40.447Z",
+  "syncedAt": "2026-09-20T16:34:23.536Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "ZerW_Yx4OCo",
+      "title": "Bản tin 30s Khám Phá #4 - 5 điều dễ nhầm về laptop, PC và gaming",
+      "description": "Bản tin 30s Khám Phá #4 tổng hợp 5 nội dung đã đăng xoay quanh những thông số và tính năng dễ gây nhầm khi dùng laptop, PC và màn hình gaming.\n\nBạn sẽ biết cách kiểm tra cổng USB-C hỗ trợ sạc, xuất hình hay dữ liệu tốc độ cao; phân biệt SSD và HDD trên Windows 11; hiểu điều cần kiểm tra khi chọn laptop Windows ARM so với x86; VRR giúp giảm xé hình như thế nào; và vì sao VRAM không thể cộng đơn giản với RAM hệ thống.\n\nDANH SÁCH NỘI DUNG TRONG VIDEO:\n1. Mẹo 30 giây kiểm tra cổng USB-C trên laptop hỗ trợ gì\n2. Cách kiểm tra laptop đang dùng SSD hay HDD trên Windows 11\n3. Laptop ARM Windows khác laptop x86 ở điều gì người mua nên kiểm tra?\n4. VRR là gì và vì sao giúp game bớt xé hình?\n5. VRAM 8GB, 12GB, 16GB khác RAM hệ thống thế nào?\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Acer Dây cáp sạc nhanh Type C sang L 27W PD Cáp USB C truyền dữ liệu cho Với cáp dữ liệu truyền dữ liệu 480 Mbps 20W Thích hợp cho IP 11 12 13 14 máy tính bảng UC0025\nhttps://s.shopee.vn/9zxrL54ToX\n\n#Laptop #PC #Gaming #30sKhamPha",
+      "publishedAt": "2026-09-20T12:00:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZerW_Yx4OCo/maxresdefault.jpg",
+      "duration": "3:42",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "ban-tin-30s-kham-pha"
+      ],
+      "primaryCategory": "ban-tin-30s-kham-pha",
+      "url": "https://www.youtube.com/watch?v=ZerW_Yx4OCo"
+    },
     {
       "id": "SSBZHB81Ftw",
       "title": "Pin LFP khác pin lithium-ion phổ biến ở đâu?",
@@ -39,8 +54,8 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 63,
-      "likeCount": 4,
+      "viewCount": 73,
+      "likeCount": 3,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -84,7 +99,7 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 267,
+      "viewCount": 269,
       "likeCount": 8,
       "categories": [
         "may-tinh"
@@ -114,7 +129,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 617,
+      "viewCount": 618,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -324,7 +339,7 @@
       "publishedAt": "2026-08-30T03:00:24Z",
       "thumbnail": "https://i.ytimg.com/vi/z7iCtMfu9tE/maxresdefault.jpg",
       "duration": "3:27",
-      "viewCount": 59,
+      "viewCount": 60,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -339,7 +354,7 @@
       "publishedAt": "2026-08-29T12:00:26Z",
       "thumbnail": "https://i.ytimg.com/vi/tFaEThQdkPM/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 271,
+      "viewCount": 272,
       "likeCount": 2,
       "categories": [
         "ai-de-hieu"
