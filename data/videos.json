@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-22T23:20:19.203Z",
+  "syncedAt": "2026-09-23T09:36:42.125Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-09-21T12:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/VowNZPClkvM/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 68,
+      "viewCount": 69,
       "likeCount": 1,
       "categories": [
         "ai-de-hieu"
@@ -54,7 +54,7 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 136,
+      "viewCount": 141,
       "likeCount": 2,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -69,7 +69,7 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 78,
+      "viewCount": 86,
       "likeCount": 4,
       "categories": [
         "suc-khoe-co-the"
@@ -114,8 +114,8 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 274,
-      "likeCount": 9,
+      "viewCount": 280,
+      "likeCount": 10,
       "categories": [
         "may-tinh"
       ],
@@ -219,7 +219,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 35,
+      "viewCount": 38,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
