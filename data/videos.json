@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-23T09:36:42.125Z",
+  "syncedAt": "2026-09-23T17:31:43.642Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "GqVPDAyLH7o",
+      "title": "AI Search khác tìm kiếm bằng từ khóa truyền thống như thế nào?",
+      "description": "AI Search có thể tổng hợp câu trả lời ngay trên màn hình, trong khi tìm kiếm truyền thống tập trung lọc và xếp hạng nhiều trang để bạn mở và tự đọc nguồn.\nAI hữu ích khi câu hỏi dài, cần so sánh hoặc hỏi tiếp; nhưng câu trả lời trôi chảy vẫn có thể hiểu sai hoặc bỏ mất ngữ cảnh.\nKhi cần văn bản gốc, trang chính thức, con số hoặc câu chữ chính xác, hãy mở nguồn trực tiếp và kiểm tra lại.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Bàn Phím Không Dây HyperWork SilentKey Mini Low Profile 3 Chế Độ Kết Nối Bluetooth, Receiver, Type-C Bàn Phím Im Lặng\nhttps://s.shopee.vn/5q8Ocyu1Vw\n\n#AISearch #TimKiemAI #CongNghe #30sKhamPha",
+      "publishedAt": "2026-09-23T12:00:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/GqVPDAyLH7o/maxresdefault.jpg",
+      "duration": "1:05",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "ai-de-hieu",
+      "url": "https://www.youtube.com/watch?v=GqVPDAyLH7o"
+    },
     {
       "id": "VowNZPClkvM",
       "title": "Bàn phím có phím AI/Copilot riêng thực sự làm được gì?",
@@ -54,7 +69,7 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 141,
+      "viewCount": 143,
       "likeCount": 2,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -69,7 +84,7 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 86,
+      "viewCount": 88,
       "likeCount": 4,
       "categories": [
         "suc-khoe-co-the"
@@ -114,8 +129,8 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 280,
-      "likeCount": 10,
+      "viewCount": 281,
+      "likeCount": 9,
       "categories": [
         "may-tinh"
       ],
@@ -129,7 +144,7 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 356,
+      "viewCount": 357,
       "likeCount": 3,
       "categories": [
         "may-tinh"
@@ -219,7 +234,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 38,
+      "viewCount": 39,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
