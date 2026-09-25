@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-25T09:53:21.166Z",
+  "syncedAt": "2026-09-25T17:36:19.965Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "OC6qgdUkPQY",
+      "title": "WPA3 có lợi gì nếu mật khẩu Wi-Fi của bạn vẫn rất đơn giản?",
+      "description": "Đổi router sang WPA3 nhưng mật khẩu Wi-Fi vẫn quá đơn giản — bạn đã an toàn hơn bao nhiêu?\nWPA3 dùng SAE để cải thiện cơ chế xác thực và khiến việc thử đoán mật khẩu Wi-Fi ngoại tuyến khó hơn cách cũ. Nhưng WPA3 không biến một mật khẩu Wi-Fi yếu thành mạnh.\nĐể an toàn hơn, hãy dùng mật khẩu Wi-Fi dài và khó đoán, cập nhật thiết bị khi có thể và lưu ý rằng thiết bị cũ có thể khiến mạng phải dùng chế độ tương thích.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Router Wifi 7-Wifi 6 Asus TUF Gaming, BE3600-BE6500-BE9400, Cổng USB, Hỗ Trợ Ali Mesh\nhttps://s.shopee.vn/30oGMWGZRm\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#WPA3 #BaoMatWiFi #Router #30sKhamPha",
+      "publishedAt": "2026-09-25T12:00:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/OC6qgdUkPQY/maxresdefault.jpg",
+      "duration": "1:09",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=OC6qgdUkPQY"
+    },
     {
       "id": "GqVPDAyLH7o",
       "title": "AI Search khác tìm kiếm bằng từ khóa truyền thống như thế nào?",
@@ -9,7 +24,7 @@
       "publishedAt": "2026-09-23T12:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GqVPDAyLH7o/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 10,
+      "viewCount": 13,
       "likeCount": 1,
       "categories": [
         "ai-de-hieu"
@@ -39,7 +54,7 @@
       "publishedAt": "2026-09-20T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ZerW_Yx4OCo/maxresdefault.jpg",
       "duration": "3:42",
-      "viewCount": 0,
+      "viewCount": 1,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -54,7 +69,7 @@
       "publishedAt": "2026-09-19T12:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/SSBZHB81Ftw/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 32,
+      "viewCount": 33,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -69,7 +84,7 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 145,
+      "viewCount": 146,
       "likeCount": 3,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -84,7 +99,7 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 92,
+      "viewCount": 95,
       "likeCount": 6,
       "categories": [
         "suc-khoe-co-the"
@@ -129,7 +144,7 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 282,
+      "viewCount": 284,
       "likeCount": 10,
       "categories": [
         "may-tinh"
@@ -159,7 +174,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 618,
+      "viewCount": 619,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
