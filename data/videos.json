@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-25T23:39:49.809Z",
+  "syncedAt": "2026-09-26T09:36:03.260Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-09-25T12:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/OC6qgdUkPQY/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 0,
+      "viewCount": 1,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -24,8 +24,8 @@
       "publishedAt": "2026-09-23T12:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GqVPDAyLH7o/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 9,
-      "likeCount": 1,
+      "viewCount": 17,
+      "likeCount": 3,
       "categories": [
         "ai-de-hieu"
       ],
@@ -84,7 +84,7 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 146,
+      "viewCount": 145,
       "likeCount": 3,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -99,8 +99,8 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 95,
-      "likeCount": 6,
+      "viewCount": 101,
+      "likeCount": 8,
       "categories": [
         "suc-khoe-co-the"
       ],
