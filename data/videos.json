@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-27T10:15:10.099Z",
+  "syncedAt": "2026-09-27T17:20:06.731Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "y1OOEximrCU",
+      "title": "Bản tin 30s Khám Phá #5 · 5 điều dễ nhầm về công nghệ & đời sống",
+      "description": "Bản tin 30s Khám Phá #5 tổng hợp 5 chủ đề công nghệ và đời sống dễ bị hiểu quá đơn giản khi chỉ nhìn vào một thuật ngữ, biểu tượng hay “mẹo truyền miệng”.\n\nBạn sẽ tìm hiểu dấu vết giúp xác minh ảnh/video AI và giới hạn của chúng; Matter có thể giúp các hệ sinh thái nhà thông minh kết nối thuận tiện hơn nhưng không loại bỏ hoàn toàn ứng dụng riêng; pin LFP thường được nhắc tới nhờ độ bền chu kỳ và ổn định nhiệt; thời điểm bổ sung protein sau tập không chỉ xoay quanh một “cửa sổ” cực ngắn; và tiếng bụng réo có liên quan đến chuyển động của khí, chất lỏng trong đường tiêu hóa chứ không chỉ xuất hiện khi đói.\n\nDANH SÁCH NỘI DUNG TRONG VIDEO:\n1. Ảnh/video AI có “dấu vết” để nhận biết không? SynthID và Content Credentials là gì?\n2. Matter là gì và có thật sự làm nhà thông minh bớt 'mỗi hãng một app'?\n3. Pin trạm điện LFP khác pin lithium-ion phổ biến ở đâu?\n4. Tập xong bao lâu thì nên bổ sung protein?\n5. Vì sao bụng lại réo khi bạn đói?\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Sạc dự phòng 30000 Pin Dự Phòng dung lượng lớn Sạc Dự Phòng kèm sẵn dây Sạc Dự Phòng Sạc Nhanh Sạc dự phòng cho IP ADR\nhttps://s.shopee.vn/3LRA4cTbYw\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n#AI #Matter #LFP #CongNgheDoiSong #30sKhamPha",
+      "publishedAt": "2026-09-27T13:00:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/y1OOEximrCU/maxresdefault.jpg",
+      "duration": "3:34",
+      "viewCount": 0,
+      "likeCount": 0,
+      "categories": [
+        "ban-tin-30s-kham-pha"
+      ],
+      "primaryCategory": "ban-tin-30s-kham-pha",
+      "url": "https://www.youtube.com/watch?v=y1OOEximrCU"
+    },
     {
       "id": "OC6qgdUkPQY",
       "title": "WPA3 có lợi gì nếu mật khẩu Wi-Fi của bạn vẫn rất đơn giản?",
@@ -24,7 +39,7 @@
       "publishedAt": "2026-09-23T12:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GqVPDAyLH7o/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 18,
+      "viewCount": 20,
       "likeCount": 4,
       "categories": [
         "ai-de-hieu"
@@ -39,7 +54,7 @@
       "publishedAt": "2026-09-21T12:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/VowNZPClkvM/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 73,
+      "viewCount": 75,
       "likeCount": 1,
       "categories": [
         "ai-de-hieu"
@@ -54,7 +69,7 @@
       "publishedAt": "2026-09-20T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ZerW_Yx4OCo/maxresdefault.jpg",
       "duration": "3:42",
-      "viewCount": 8,
+      "viewCount": 9,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -69,7 +84,7 @@
       "publishedAt": "2026-09-19T12:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/SSBZHB81Ftw/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 37,
+      "viewCount": 39,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -84,8 +99,8 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 148,
-      "likeCount": 3,
+      "viewCount": 150,
+      "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
       ],
@@ -99,8 +114,8 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 106,
-      "likeCount": 10,
+      "viewCount": 108,
+      "likeCount": 9,
       "categories": [
         "suc-khoe-co-the"
       ],
@@ -144,8 +159,8 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 289,
-      "likeCount": 12,
+      "viewCount": 292,
+      "likeCount": 13,
       "categories": [
         "may-tinh"
       ],
@@ -279,7 +294,7 @@
       "publishedAt": "2026-09-04T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/L7UGhu8QspE/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 298,
+      "viewCount": 299,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -715,7 +730,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 425,
+      "viewCount": 427,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
