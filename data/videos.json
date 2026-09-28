@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-09-28T11:17:55.329Z",
+  "syncedAt": "2026-09-28T19:52:59.793Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "XNuuTPkUJYQ",
+      "title": "Vì sao AI viết văn hay nhưng vẫn có thể tính sai?",
+      "description": "AI có thể tạo câu chữ rất mượt nhưng đôi khi vẫn sai ở những phép tính đơn giản. Lý do là mô hình ngôn ngữ chủ yếu dự đoán đơn vị từ tiếp theo từ các mẫu đã học, chứ không mặc định hoạt động như một máy tính số học.\n\nKhi con số cần chính xác, hãy để AI hỗ trợ giải thích hoặc lập công thức, rồi kiểm tra lại bằng máy tính, code hoặc bảng tính. AI vẫn có thể làm toán tốt hơn khi được kết hợp với công cụ phù hợp.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Sách Life 3.0+Không Ai Cản Được AI+Ứng Dụng AI Trong Giáo Dục+Thiết Kế Hình Ảnh+Tự Động Hóa Trong MKT (Alpha Books)\nhttps://s.shopee.vn/5AspmNpcbK\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n#AI #LLM #AILamToan #30sKhamPha",
+      "publishedAt": "2026-09-28T12:00:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/XNuuTPkUJYQ/maxresdefault.jpg",
+      "duration": "1:09",
+      "viewCount": 146,
+      "likeCount": 0,
+      "categories": [
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "ai-de-hieu",
+      "url": "https://www.youtube.com/watch?v=XNuuTPkUJYQ"
+    },
     {
       "id": "y1OOEximrCU",
       "title": "Bản tin 30s Khám Phá #5 · 5 điều dễ nhầm về công nghệ & đời sống",
@@ -39,7 +54,7 @@
       "publishedAt": "2026-09-23T12:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GqVPDAyLH7o/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 20,
+      "viewCount": 21,
       "likeCount": 4,
       "categories": [
         "ai-de-hieu"
@@ -99,8 +114,8 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 151,
-      "likeCount": 5,
+      "viewCount": 154,
+      "likeCount": 6,
       "categories": [
         "cong-nghe-thiet-bi"
       ],
@@ -114,7 +129,7 @@
       "publishedAt": "2026-09-17T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ahEuGHD19p8/maxresdefault.jpg",
       "duration": "0:36",
-      "viewCount": 109,
+      "viewCount": 111,
       "likeCount": 12,
       "categories": [
         "suc-khoe-co-the"
@@ -159,7 +174,7 @@
       "publishedAt": "2026-09-13T12:00:31Z",
       "thumbnail": "https://i.ytimg.com/vi/RfEaIib5gMk/maxresdefault.jpg",
       "duration": "0:43",
-      "viewCount": 293,
+      "viewCount": 294,
       "likeCount": 13,
       "categories": [
         "may-tinh"
@@ -264,7 +279,7 @@
       "publishedAt": "2026-09-06T03:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/uq0wiBPS6jc/maxresdefault.jpg",
       "duration": "3:37",
-      "viewCount": 43,
+      "viewCount": 44,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
