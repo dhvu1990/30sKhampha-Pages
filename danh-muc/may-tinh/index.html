@@ -26,14 +26,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="preconnect" href="https://i.ytimg.com">
-  <link rel="stylesheet" href="/assets/css/site.min.css?v=0.14.45">
-  <style>
-    .category-page-card { color: inherit; text-decoration: none; display: block; }
-    .category-page-card h2 { font-size: 1rem; line-height: 1.45; margin: 10px 0 0; }
-    .category-page-hero { padding-bottom: 24px; }
-    .category-page-breadcrumb { display: flex; gap: 8px; flex-wrap: wrap; font-size: .82rem; color: var(--muted); margin-bottom: 16px; }
-    .category-page-breadcrumb a { color: inherit; }
-  </style>
+  <link rel="stylesheet" href="/assets/css/site.min.css?v=0.14.46">
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://30skhampha.io.vn/danh-muc/may-tinh/#webpage","url":"https://30skhampha.io.vn/danh-muc/may-tinh/","name":"Máy tính | 30s Khám Phá","description":"Video máy tính dễ hiểu về PC, laptop, phần cứng, Windows, lưu trữ, kết nối, nâng cấp và các mẹo sử dụng máy tính.","inLanguage":"vi-VN","isPartOf":{"@id":"https://30skhampha.io.vn/#website"},"breadcrumb":{"@id":"https://30skhampha.io.vn/danh-muc/may-tinh/#breadcrumb"},"mainEntity":{"@id":"https://30skhampha.io.vn/danh-muc/may-tinh/#itemlist"}},{"@type":"BreadcrumbList","@id":"https://30skhampha.io.vn/danh-muc/may-tinh/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"30s Khám Phá","item":"https://30skhampha.io.vn/"},{"@type":"ListItem","position":2,"name":"Máy tính","item":"https://30skhampha.io.vn/danh-muc/may-tinh/"}]},{"@type":"ItemList","@id":"https://30skhampha.io.vn/danh-muc/may-tinh/#itemlist","name":"Video Máy tính","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"name":"16GB RAM + 8GB VRAM có thành 24GB cho game?","url":"https://www.youtube.com/watch?v=0dJKczOS8uE"},{"@type":"ListItem","position":2,"name":"Laptop Windows ARM khác x86 ở đâu? 3 thứ cần kiểm tra trước khi mua.","url":"https://www.youtube.com/watch?v=RfEaIib5gMk"},{"@type":"ListItem","position":3,"name":"Cách kiểm tra laptop đang dùng SSD hay HDD trên Windows 11","url":"https://www.youtube.com/watch?v=eM-Mskt8-xU"},{"@type":"ListItem","position":4,"name":"Vì sao laptop cũ chạy chậm dần dù cấu hình không đổi?","url":"https://www.youtube.com/watch?v=mtavSFpgfRo"},{"@type":"ListItem","position":5,"name":"CPU và GPU khác nhau thế nào? Mỗi loại xử lý gì?","url":"https://www.youtube.com/watch?v=xBXsjxtK0zQ"},{"@type":"ListItem","position":6,"name":"8GB RAM còn đủ cho Windows 11 năm 2026 không?","url":"https://www.youtube.com/watch?v=WTBEyh8HNrk"}]}]}</script>
 </head>
 <body>
@@ -44,21 +37,40 @@
       <nav class="header-nav" aria-label="Điều hướng chính"><a href="/">Trang chủ</a><a href="/#latest">Mới nhất</a><a href="/#categories">Danh mục</a></nav>
     </div>
   </header>
+
   <main id="content">
-    <section class="hero container category-page-hero">
-      <div class="hero-copy">
-        <nav class="category-page-breadcrumb" aria-label="Breadcrumb"><a href="/">30s Khám Phá</a><span>›</span><span>Máy tính</span></nav>
-        <div class="hero-kicker"><span class="eyebrow">💻 DANH MỤC</span></div>
-        <h1>Máy tính</h1>
-        <p>Video máy tính dễ hiểu về PC, laptop, phần cứng, Windows, lưu trữ, kết nối, nâng cấp và các mẹo sử dụng máy tính.</p>
-        <div class="hero-actions">
-          <a class="btn btn-primary" href="#videos">Xem video ↓</a>
-          <a class="btn btn-secondary" href="/#categories">Tất cả danh mục ↗</a>
+    <section class="category-hero">
+      <div class="container">
+        <div class="category-hero-card">
+          <nav class="category-page-breadcrumb" aria-label="Breadcrumb">
+            <a href="/">30s Khám Phá</a><span>›</span>
+            <span>Máy tính</span>
+          </nav>
+          <div class="category-kicker">💻 Danh mục</div>
+          <h1>Máy tính</h1>
+          <p class="category-hero-description">Video máy tính dễ hiểu về PC, laptop, phần cứng, Windows, lưu trữ, kết nối, nâng cấp và các mẹo sử dụng máy tính.</p>
+          <div class="category-hero-footer">
+            <div class="category-stats">
+              <span class="category-stat"><strong>6</strong> video</span>
+              
+            </div>
+            <div class="category-hero-actions">
+              <a class="btn btn-primary" href="#videos">Xem video ↓</a>
+              <a class="btn btn-secondary" href="/#categories">Tất cả danh mục ↗</a>
+            </div>
+          </div>
         </div>
       </div>
     </section>
-    <section class="section container" id="videos">
-      <div class="section-head"><div><p class="eyebrow">VIDEO MÁY TÍNH</p><h2>6 video trong danh mục</h2></div></div>
+
+    <section class="container category-listing" id="videos">
+      <div class="category-listing-head">
+        <div>
+          <p class="eyebrow">VIDEO MÁY TÍNH</p>
+          <h2>Video mới nhất</h2>
+        </div>
+        <p class="category-page-summary">Hiển thị 1–6 trong 6 video</p>
+      </div>
       <div class="video-grid"><a class="video-card category-page-card" href="https://www.youtube.com/watch?v=0dJKczOS8uE" target="_blank" rel="noopener">
     <div class="video-thumb"><img src="https://i.ytimg.com/vi/0dJKczOS8uE/maxresdefault.jpg" alt="16GB RAM + 8GB VRAM có thành 24GB cho game?" loading="lazy" decoding="async"><span class="play-button">▶</span><span class="duration">0:49</span></div>
     <div class="video-copy">
@@ -80,7 +92,7 @@
     <div class="video-copy">
       <span class="video-category">💻 Máy tính</span>
       <h2>Cách kiểm tra laptop đang dùng SSD hay HDD trên Windows 11</h2>
-      <div class="meta-row"><span>12/09/2026 · 365 lượt xem</span></div>
+      <div class="meta-row"><span>12/09/2026 · 367 lượt xem</span></div>
     </div>
   </a>
 <a class="video-card category-page-card" href="https://www.youtube.com/watch?v=mtavSFpgfRo" target="_blank" rel="noopener">
@@ -107,10 +119,12 @@
       <div class="meta-row"><span>14/08/2026 · 72 lượt xem</span></div>
     </div>
   </a></div>
+      
     </section>
   </main>
+
   <footer class="site-footer">
-    <div class="container footer-bottom"><p>© 30s KHÁM PHÁ CÔNG NGHỆ &amp; ĐỜI SỐNG · v0.14.45</p><p><a href="/">Trang chủ</a> · <a href="https://www.youtube.com/@30sKhamPhaCuocSong" target="_blank" rel="noopener">YouTube ↗</a></p></div>
+    <div class="container footer-bottom"><p>© 30s KHÁM PHÁ CÔNG NGHỆ &amp; ĐỜI SỐNG · v0.14.46</p><p><a href="/">Trang chủ</a> · <a href="https://www.youtube.com/@30sKhamPhaCuocSong" target="_blank" rel="noopener">YouTube ↗</a></p></div>
   </footer>
 </body>
 </html>
