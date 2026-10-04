@@ -26,7 +26,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="preconnect" href="https://i.ytimg.com">
-  <link rel="stylesheet" href="/assets/css/site.min.css?v=0.14.46">
+  <link rel="stylesheet" href="/assets/css/site.min.css?v=0.14.47">
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/#webpage","url":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/","name":"Thế giới & Văn hóa | 30s Khám Phá","description":"Khám phá thế giới và văn hóa qua video ngắn về con người, địa lý, lịch sử, phong tục và những điều thú vị ở nhiều nơi.","inLanguage":"vi-VN","isPartOf":{"@id":"https://30skhampha.io.vn/#website"},"breadcrumb":{"@id":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/#breadcrumb"},"mainEntity":{"@id":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/#itemlist"}},{"@type":"BreadcrumbList","@id":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"30s Khám Phá","item":"https://30skhampha.io.vn/"},{"@type":"ListItem","position":2,"name":"Thế giới & Văn hóa","item":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/"}]},{"@type":"ItemList","@id":"https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/#itemlist","name":"Video Thế giới & Văn hóa","numberOfItems":2,"itemListElement":[{"@type":"ListItem","position":1,"name":"Internet slang lan từ một quốc gia ra toàn cầu bằng cách nào?","url":"https://www.youtube.com/watch?v=k5vBSwM3oOk"},{"@type":"ListItem","position":2,"name":"Vì sao cả thế giới không dùng chung một ngôn ngữ?","url":"https://www.youtube.com/watch?v=tKsvokrgLto"}]}]}</script>
 </head>
 <body>
@@ -71,7 +71,7 @@
         </div>
         <p class="category-page-summary">Hiển thị 1–2 trong 2 video</p>
       </div>
-      <div class="video-grid"><a class="video-card category-page-card" href="https://www.youtube.com/watch?v=k5vBSwM3oOk" target="_blank" rel="noopener">
+      <div class="video-grid"><a class="video-card category-page-card" href="https://www.youtube.com/watch?v=k5vBSwM3oOk" target="_blank" rel="noopener" data-video-id="k5vBSwM3oOk" data-video-title="Internet slang lan từ một quốc gia ra toàn cầu bằng cách nào?" data-video-category="🌍 Thế giới &amp; Văn hóa" data-video-url="https://www.youtube.com/watch?v=k5vBSwM3oOk">
     <div class="video-thumb"><img src="https://i.ytimg.com/vi/k5vBSwM3oOk/maxresdefault.jpg" alt="Internet slang lan từ một quốc gia ra toàn cầu bằng cách nào?" loading="lazy" decoding="async"><span class="play-button">▶</span><span class="duration">0:42</span></div>
     <div class="video-copy">
       <span class="video-category">🌍 Thế giới &amp; Văn hóa</span>
@@ -79,7 +79,7 @@
       <div class="meta-row"><span>01/09/2026 · 665 lượt xem</span></div>
     </div>
   </a>
-<a class="video-card category-page-card" href="https://www.youtube.com/watch?v=tKsvokrgLto" target="_blank" rel="noopener">
+<a class="video-card category-page-card" href="https://www.youtube.com/watch?v=tKsvokrgLto" target="_blank" rel="noopener" data-video-id="tKsvokrgLto" data-video-title="Vì sao cả thế giới không dùng chung một ngôn ngữ?" data-video-category="🌍 Thế giới &amp; Văn hóa" data-video-url="https://www.youtube.com/watch?v=tKsvokrgLto">
     <div class="video-thumb"><img src="https://i.ytimg.com/vi/tKsvokrgLto/maxresdefault.jpg" alt="Vì sao cả thế giới không dùng chung một ngôn ngữ?" loading="lazy" decoding="async"><span class="play-button">▶</span><span class="duration">0:47</span></div>
     <div class="video-copy">
       <span class="video-category">🌍 Thế giới &amp; Văn hóa</span>
@@ -92,7 +92,11 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container footer-bottom"><p>© 30s KHÁM PHÁ CÔNG NGHỆ &amp; ĐỜI SỐNG · v0.14.46</p><p><a href="/">Trang chủ</a> · <a href="https://www.youtube.com/@30sKhamPhaCuocSong" target="_blank" rel="noopener">YouTube ↗</a></p></div>
+    <div class="container footer-bottom"><p>© 30s KHÁM PHÁ CÔNG NGHỆ &amp; ĐỜI SỐNG · v0.14.47</p><p><a href="/">Trang chủ</a> · <a href="https://www.youtube.com/@30sKhamPhaCuocSong" target="_blank" rel="noopener">YouTube ↗</a></p></div>
   </footer>
+
+  <dialog class="video-modal" id="videoModal"><div class="modal-card"><button class="modal-close" id="modalClose" type="button" aria-label="Đóng">×</button><div class="player-wrap" id="playerWrap"></div><div class="modal-info"><div><span class="modal-category" id="modalCategory"></span><h3 id="modalTitle"></h3></div><div class="modal-actions"><button class="share-btn" id="shareVideo" type="button">Chia sẻ</button><a id="modalYoutubeLink" target="_blank" rel="noopener">YouTube ↗</a></div></div><aside class="video-affiliate" hidden aria-label="Sản phẩm liên quan"></aside></div></dialog>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="/assets/js/category-page.min.js?v=0.14.47"></script>
 </body>
 </html>
