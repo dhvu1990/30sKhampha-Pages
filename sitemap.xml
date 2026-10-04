@@ -2,7 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://30skhampha.io.vn/</loc>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/ai-de-hieu/</loc>
+    <lastmod>2026-09-28</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/ban-tin-30s-kham-pha/</loc>
+    <lastmod>2026-09-27</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/cong-nghe-thiet-bi/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/khoa-hoc-vu-tru/</loc>
+    <lastmod>2026-08-30</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/kien-thuc-doi-song/</loc>
+    <lastmod>2026-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/may-tinh/</loc>
+    <lastmod>2026-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/suc-khoe-co-the/</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://30skhampha.io.vn/danh-muc/the-gioi-van-hoa/</loc>
+    <lastmod>2026-09-01</lastmod>
   </url>
 </urlset>
