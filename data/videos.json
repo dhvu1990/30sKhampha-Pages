@@ -1,7 +1,23 @@
 {
-  "syncedAt": "2026-10-06T11:34:08.455Z",
+  "syncedAt": "2026-10-06T18:40:19.726Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "Vge44bJHjBs",
+      "title": "Hỏi loa thông minh cùng một câu hai lần, vì sao câu trả lời có thể không giống hệt nhau?",
+      "description": "Bạn hỏi loa thông minh cùng một câu hai lần nhưng nhận cách diễn đạt khác nhau? Với trợ lý dùng AI tạo sinh, câu trả lời có thể được tạo mới cho từng lượt thay vì chỉ phát lại một câu cố định.\nKết quả còn có thể chịu ảnh hưởng bởi ngữ cảnh hội thoại, dữ liệu tại thời điểm hỏi và cách mô hình chọn từ tiếp theo. Khác câu chữ chưa chắc là mâu thuẫn; nếu chi tiết quan trọng thay đổi, hãy kiểm tra nguồn hoặc hỏi lại rõ hơn.\n\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Loa thông minh OLLI Maika, Trợ lý ảo Tiếng Việt điều khiển thiết bị thông minh, phát nhạc, truyện\nhttps://s.shopee.vn/1LgJzOsUq3\n\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n\n#LoaThongMinh #TroLyAI #CongNgheAI #30sKhamPha",
+      "publishedAt": "2026-10-06T12:30:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/Vge44bJHjBs/maxresdefault.jpg",
+      "duration": "1:09",
+      "viewCount": 85,
+      "likeCount": 0,
+      "categories": [
+        "cong-nghe-thiet-bi",
+        "ai-de-hieu"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=Vge44bJHjBs"
+    },
     {
       "id": "BQsHJ5vyksU",
       "title": "Nâng Wi-Fi 7 cho PC cũ: Cắm card là xong? #30sKhamPha #WiFi7",
@@ -9,7 +25,7 @@
       "publishedAt": "2026-10-03T12:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/BQsHJ5vyksU/maxresdefault.jpg",
       "duration": "0:48",
-      "viewCount": 32,
+      "viewCount": 33,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -84,7 +100,7 @@
       "publishedAt": "2026-09-23T12:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/GqVPDAyLH7o/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 61,
+      "viewCount": 64,
       "likeCount": 15,
       "categories": [
         "ai-de-hieu"
@@ -114,7 +130,7 @@
       "publishedAt": "2026-09-20T12:00:12Z",
       "thumbnail": "https://i.ytimg.com/vi/ZerW_Yx4OCo/maxresdefault.jpg",
       "duration": "3:42",
-      "viewCount": 49,
+      "viewCount": 50,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -189,7 +205,7 @@
       "publishedAt": "2026-09-14T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/BbH6A3jQyAs/maxresdefault.jpg",
       "duration": "0:35",
-      "viewCount": 78,
+      "viewCount": 79,
       "likeCount": 8,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -219,7 +235,7 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 367,
+      "viewCount": 368,
       "likeCount": 3,
       "categories": [
         "may-tinh"
@@ -234,7 +250,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 634,
+      "viewCount": 639,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -354,7 +370,7 @@
       "publishedAt": "2026-09-03T12:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/vSIauWr0UN0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 63,
+      "viewCount": 66,
       "likeCount": 9,
       "categories": [
         "suc-khoe-co-the"
