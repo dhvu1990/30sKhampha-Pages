@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-09T11:33:02.910Z",
+  "syncedAt": "2026-10-09T18:33:37.014Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -25,7 +25,7 @@
       "publishedAt": "2026-10-03T12:00:01Z",
       "thumbnail": "https://i.ytimg.com/vi/BQsHJ5vyksU/maxresdefault.jpg",
       "duration": "0:48",
-      "viewCount": 42,
+      "viewCount": 43,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -70,7 +70,7 @@
       "publishedAt": "2026-09-27T13:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/y1OOEximrCU/maxresdefault.jpg",
       "duration": "3:34",
-      "viewCount": 5,
+      "viewCount": 6,
       "likeCount": 0,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -205,7 +205,7 @@
       "publishedAt": "2026-09-14T12:00:27Z",
       "thumbnail": "https://i.ytimg.com/vi/BbH6A3jQyAs/maxresdefault.jpg",
       "duration": "0:35",
-      "viewCount": 90,
+      "viewCount": 92,
       "likeCount": 10,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -250,7 +250,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 640,
+      "viewCount": 641,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -370,7 +370,7 @@
       "publishedAt": "2026-09-03T12:00:00Z",
       "thumbnail": "https://i.ytimg.com/vi/vSIauWr0UN0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 75,
+      "viewCount": 76,
       "likeCount": 12,
       "categories": [
         "suc-khoe-co-the"
@@ -791,7 +791,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 431,
+      "viewCount": 432,
       "likeCount": 40,
       "categories": [
         "ai-de-hieu"
