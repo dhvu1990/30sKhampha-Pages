@@ -1,7 +1,22 @@
 {
-  "syncedAt": "2026-10-15T09:29:20.043Z",
+  "syncedAt": "2026-10-15T17:25:40.939Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
+    {
+      "id": "gARtEwx-BOE",
+      "title": "Pin AA sạc lại 1,2V có dùng thay pin 1,5V được cho mọi thiết bị không?",
+      "description": "Pin AA cùng kích thước nhưng pin sạc NiMH thường có điện áp danh định 1,2V, còn pin kiềm thường là 1,5V. Khác biệt này không có nghĩa pin sạc 1,2V luôn không dùng được.\nTrong video, bạn sẽ thấy vì sao nhiều thiết bị vẫn hoạt động tốt với pin sạc 1,2V, trong khi một số thiết bị nhạy điện áp có thể báo pin yếu sớm hoặc hoạt động không đúng như mong đợi. Khi thiết bị ghi rõ loại pin cần dùng, nên ưu tiên hướng dẫn của nhà sản xuất và không trộn pin khác loại, khác mức sạc hoặc pin cũ với pin mới.\nNếu thiết bị của bạn đang dùng pin AA, hãy kiểm tra hướng dẫn sử dụng trước khi thay đổi loại pin.\n--- SẢN PHẨM THAM KHẢO ---\n🛒 Pin Sạc Enemax, Pin sạc 1,5v, Pin Sạc AA, Pin Sạc AAA Sạc Lại Hơn 3500 Lần - Sạc Nhanh - Tự Ngắt\nhttps://s.shopee.vn/6fhzs7Du0S\n🔎 Theo dõi 30s Khám Phá Công Nghệ & Đời Sống để khám phá thêm những kiến thức trực quan, dễ hiểu và hữu ích!\n-----------------------\n🌐 Website · https://30skhampha.io.vn\n🔴 YouTube · https://www.youtube.com/@30sKhamPhaCuocSong\n🔵 Facebook · https://www.facebook.com/30skhampha\n⚫ TikTok · https://www.tiktok.com/@30skhampha\n🟣 Instagram · https://www.instagram.com/30skhampha\n-----------------------\n💗 Follow · Like · Share nếu nội dung hữu ích!\n#PinAA #PinSac #NiMH #CongNghe #30sKhamPha",
+      "publishedAt": "2026-10-15T12:00:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/gARtEwx-BOE/maxresdefault.jpg",
+      "duration": "1:15",
+      "viewCount": 102,
+      "likeCount": 1,
+      "categories": [
+        "cong-nghe-thiet-bi"
+      ],
+      "primaryCategory": "cong-nghe-thiet-bi",
+      "url": "https://www.youtube.com/watch?v=gARtEwx-BOE"
+    },
     {
       "id": "XocbkYZWPuw",
       "title": "Bình giữ nhiệt giữ nóng lâu nhờ chân không như thế nào?",
@@ -85,7 +100,7 @@
       "publishedAt": "2026-09-27T13:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/y1OOEximrCU/maxresdefault.jpg",
       "duration": "3:34",
-      "viewCount": 59,
+      "viewCount": 60,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -175,7 +190,7 @@
       "publishedAt": "2026-09-18T12:00:04Z",
       "thumbnail": "https://i.ytimg.com/vi/ZzAdYFHeeFs/maxresdefault.jpg",
       "duration": "1:05",
-      "viewCount": 167,
+      "viewCount": 169,
       "likeCount": 7,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -250,7 +265,7 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 373,
+      "viewCount": 375,
       "likeCount": 3,
       "categories": [
         "may-tinh"
