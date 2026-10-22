@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-21T17:43:13.859Z",
+  "syncedAt": "2026-10-22T09:42:37.768Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -39,7 +39,7 @@
       "publishedAt": "2026-10-06T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/Vge44bJHjBs/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 88,
+      "viewCount": 89,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi",
@@ -70,7 +70,7 @@
       "publishedAt": "2026-09-30T12:05:44Z",
       "thumbnail": "https://i.ytimg.com/vi/SR9Hh8igqdU/maxresdefault.jpg",
       "duration": "1:01",
-      "viewCount": 135,
+      "viewCount": 138,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -100,7 +100,7 @@
       "publishedAt": "2026-09-27T13:00:32Z",
       "thumbnail": "https://i.ytimg.com/vi/y1OOEximrCU/maxresdefault.jpg",
       "duration": "3:34",
-      "viewCount": 139,
+      "viewCount": 146,
       "likeCount": 1,
       "categories": [
         "ban-tin-30s-kham-pha"
@@ -115,7 +115,7 @@
       "publishedAt": "2026-09-25T12:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/OC6qgdUkPQY/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 98,
+      "viewCount": 99,
       "likeCount": 17,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -175,7 +175,7 @@
       "publishedAt": "2026-09-19T12:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/SSBZHB81Ftw/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 85,
+      "viewCount": 87,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -370,7 +370,7 @@
       "publishedAt": "2026-09-05T12:00:10Z",
       "thumbnail": "https://i.ytimg.com/vi/LaQE5o2R19w/maxresdefault.jpg",
       "duration": "1:11",
-      "viewCount": 58,
+      "viewCount": 59,
       "likeCount": 0,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -415,7 +415,7 @@
       "publishedAt": "2026-09-02T12:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/qTlBlIJ044g/maxresdefault.jpg",
       "duration": "0:38",
-      "viewCount": 184,
+      "viewCount": 185,
       "likeCount": 9,
       "categories": [
         "ai-de-hieu"
@@ -836,7 +836,7 @@
       "publishedAt": "2026-08-14T08:18:21Z",
       "thumbnail": "https://i.ytimg.com/vi/WTBEyh8HNrk/maxresdefault.jpg",
       "duration": "0:40",
-      "viewCount": 75,
+      "viewCount": 76,
       "likeCount": 1,
       "categories": [
         "may-tinh"
