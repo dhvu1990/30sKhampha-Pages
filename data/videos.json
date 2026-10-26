@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-25T22:52:38.800Z",
+  "syncedAt": "2026-10-26T10:36:18.764Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-10-15T12:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/gARtEwx-BOE/maxresdefault.jpg",
       "duration": "1:15",
-      "viewCount": 162,
+      "viewCount": 163,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -24,7 +24,7 @@
       "publishedAt": "2026-10-12T12:35:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XocbkYZWPuw/maxresdefault.jpg",
       "duration": "1:07",
-      "viewCount": 77,
+      "viewCount": 82,
       "likeCount": 1,
       "categories": [
         "khoa-hoc-vu-tru"
@@ -70,7 +70,7 @@
       "publishedAt": "2026-09-30T12:05:44Z",
       "thumbnail": "https://i.ytimg.com/vi/SR9Hh8igqdU/maxresdefault.jpg",
       "duration": "1:01",
-      "viewCount": 144,
+      "viewCount": 146,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -115,7 +115,7 @@
       "publishedAt": "2026-09-25T12:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/OC6qgdUkPQY/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 101,
+      "viewCount": 102,
       "likeCount": 17,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -175,7 +175,7 @@
       "publishedAt": "2026-09-19T12:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/SSBZHB81Ftw/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 96,
+      "viewCount": 97,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -596,7 +596,7 @@
       "publishedAt": "2026-08-24T12:30:22Z",
       "thumbnail": "https://i.ytimg.com/vi/hMAHHUJcSfI/maxresdefault.jpg",
       "duration": "0:42",
-      "viewCount": 109,
+      "viewCount": 112,
       "likeCount": 14,
       "categories": [
         "ai-de-hieu"
@@ -821,7 +821,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 452,
+      "viewCount": 453,
       "likeCount": 39,
       "categories": [
         "ai-de-hieu"
