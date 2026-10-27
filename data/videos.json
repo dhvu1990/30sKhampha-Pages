@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-27T10:05:51.550Z",
+  "syncedAt": "2026-10-27T18:26:00.774Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-10-26T12:30:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0nreTBJC-OY/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 216,
+      "viewCount": 197,
       "likeCount": 2,
       "categories": [
         "kien-thuc-doi-song"
@@ -24,7 +24,7 @@
       "publishedAt": "2026-10-15T12:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/gARtEwx-BOE/maxresdefault.jpg",
       "duration": "1:15",
-      "viewCount": 164,
+      "viewCount": 165,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -39,8 +39,8 @@
       "publishedAt": "2026-10-12T12:35:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XocbkYZWPuw/maxresdefault.jpg",
       "duration": "1:07",
-      "viewCount": 85,
-      "likeCount": 2,
+      "viewCount": 88,
+      "likeCount": 3,
       "categories": [
         "khoa-hoc-vu-tru"
       ],
@@ -85,7 +85,7 @@
       "publishedAt": "2026-09-30T12:05:44Z",
       "thumbnail": "https://i.ytimg.com/vi/SR9Hh8igqdU/maxresdefault.jpg",
       "duration": "1:01",
-      "viewCount": 147,
+      "viewCount": 148,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -190,7 +190,7 @@
       "publishedAt": "2026-09-19T12:00:13Z",
       "thumbnail": "https://i.ytimg.com/vi/SSBZHB81Ftw/maxresdefault.jpg",
       "duration": "0:34",
-      "viewCount": 100,
+      "viewCount": 102,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -656,7 +656,7 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 104,
+      "viewCount": 105,
       "likeCount": 12,
       "categories": [
         "kien-thuc-doi-song"
@@ -836,7 +836,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 453,
+      "viewCount": 454,
       "likeCount": 39,
       "categories": [
         "ai-de-hieu"
