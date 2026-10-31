@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T10:38:38.143Z",
+  "syncedAt": "2026-10-31T17:24:30.341Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-10-26T12:30:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0nreTBJC-OY/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 224,
+      "viewCount": 225,
       "likeCount": 7,
       "categories": [
         "kien-thuc-doi-song"
@@ -24,7 +24,7 @@
       "publishedAt": "2026-10-15T12:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/gARtEwx-BOE/maxresdefault.jpg",
       "duration": "1:15",
-      "viewCount": 174,
+      "viewCount": 175,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -39,7 +39,7 @@
       "publishedAt": "2026-10-12T12:35:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XocbkYZWPuw/maxresdefault.jpg",
       "duration": "1:07",
-      "viewCount": 101,
+      "viewCount": 102,
       "likeCount": 5,
       "categories": [
         "khoa-hoc-vu-tru"
@@ -280,7 +280,7 @@
       "publishedAt": "2026-09-12T12:00:33Z",
       "thumbnail": "https://i.ytimg.com/vi/eM-Mskt8-xU/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 378,
+      "viewCount": 379,
       "likeCount": 3,
       "categories": [
         "may-tinh"
@@ -295,7 +295,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 660,
+      "viewCount": 662,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -656,7 +656,7 @@
       "publishedAt": "2026-08-24T10:00:36Z",
       "thumbnail": "https://i.ytimg.com/vi/0pqLUQvfzg0/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 107,
+      "viewCount": 108,
       "likeCount": 12,
       "categories": [
         "kien-thuc-doi-song"
