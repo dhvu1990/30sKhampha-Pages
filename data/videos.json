@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T17:24:30.341Z",
+  "syncedAt": "2026-10-31T23:49:38.641Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -9,7 +9,7 @@
       "publishedAt": "2026-10-26T12:30:31Z",
       "thumbnail": "https://i.ytimg.com/vi/0nreTBJC-OY/maxresdefault.jpg",
       "duration": "1:09",
-      "viewCount": 225,
+      "viewCount": 223,
       "likeCount": 7,
       "categories": [
         "kien-thuc-doi-song"
@@ -39,7 +39,7 @@
       "publishedAt": "2026-10-12T12:35:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XocbkYZWPuw/maxresdefault.jpg",
       "duration": "1:07",
-      "viewCount": 102,
+      "viewCount": 98,
       "likeCount": 5,
       "categories": [
         "khoa-hoc-vu-tru"
@@ -836,7 +836,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 458,
+      "viewCount": 459,
       "likeCount": 39,
       "categories": [
         "ai-de-hieu"
