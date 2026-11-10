@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-10T03:01:25.163Z",
+  "syncedAt": "2026-11-10T13:05:46.188Z",
   "channelId": "UC01p0gZCthZfiyvLXNNFSrQ",
   "videos": [
     {
@@ -39,7 +39,7 @@
       "publishedAt": "2026-10-12T12:35:02Z",
       "thumbnail": "https://i.ytimg.com/vi/XocbkYZWPuw/maxresdefault.jpg",
       "duration": "1:07",
-      "viewCount": 141,
+      "viewCount": 145,
       "likeCount": 18,
       "categories": [
         "khoa-hoc-vu-tru"
@@ -295,7 +295,7 @@
       "publishedAt": "2026-09-11T12:00:28Z",
       "thumbnail": "https://i.ytimg.com/vi/xm2UnpFIfqo/hqdefault.jpg",
       "duration": "0:45",
-      "viewCount": 681,
+      "viewCount": 683,
       "likeCount": 4,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -641,7 +641,7 @@
       "publishedAt": "2026-08-24T11:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/3Igtn-aTQWs/maxresdefault.jpg",
       "duration": "0:57",
-      "viewCount": 109,
+      "viewCount": 112,
       "likeCount": 21,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -761,7 +761,7 @@
       "publishedAt": "2026-08-19T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/l0tmorPDx1A/maxresdefault.jpg",
       "duration": "0:53",
-      "viewCount": 93,
+      "viewCount": 94,
       "likeCount": 1,
       "categories": [
         "cong-nghe-thiet-bi"
@@ -836,7 +836,7 @@
       "publishedAt": "2026-08-15T08:30:03Z",
       "thumbnail": "https://i.ytimg.com/vi/P2yZ_ZUlY5w/maxresdefault.jpg",
       "duration": "0:39",
-      "viewCount": 469,
+      "viewCount": 470,
       "likeCount": 39,
       "categories": [
         "ai-de-hieu"
@@ -911,7 +911,7 @@
       "publishedAt": "2026-08-08T02:30:05Z",
       "thumbnail": "https://i.ytimg.com/vi/u5XLA8pE5es/maxresdefault.jpg",
       "duration": "0:44",
-      "viewCount": 224,
+      "viewCount": 225,
       "likeCount": 5,
       "categories": [
         "cong-nghe-thiet-bi"
